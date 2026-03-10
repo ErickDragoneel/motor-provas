@@ -1,0 +1,26 @@
+@app.post("/corrigir_prova")
+def corrigir_prova(respostas: list):
+
+    with open("banco_perguntas.json", "r", encoding="utf-8") as f:
+        banco = json.load(f)
+
+    acertos = 0
+
+    for r in respostas:
+
+        for p in banco:
+
+            if p["pergunta"] == r["pergunta"]:
+
+                if p["resposta"] == r["resposta"]:
+                    acertos += 1
+
+    total = len(respostas)
+
+    nota = (acertos / total) * 10
+
+    return {
+        "acertos": acertos,
+        "total": total,
+        "nota": round(nota, 2)
+    }

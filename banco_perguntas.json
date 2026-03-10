@@ -1,0 +1,6052 @@
+[
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 5 x 12?",
+        "opcoes": [
+            60,
+            66,
+            67,
+            59
+        ],
+        "resposta": 60
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 20 x 8?",
+        "opcoes": [
+            153,
+            174,
+            160,
+            168
+        ],
+        "resposta": 160
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 19 x 3?",
+        "opcoes": [
+            57,
+            53,
+            66,
+            66
+        ],
+        "resposta": 57
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 20 x 11?",
+        "opcoes": [
+            224,
+            220,
+            215,
+            232
+        ],
+        "resposta": 220
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 12 x 13?",
+        "opcoes": [
+            156,
+            151,
+            169,
+            157
+        ],
+        "resposta": 156
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 12 x 2?",
+        "opcoes": [
+            24,
+            34,
+            35,
+            17
+        ],
+        "resposta": 24
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 19 x 2?",
+        "opcoes": [
+            38,
+            46,
+            36,
+            48
+        ],
+        "resposta": 38
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 11 x 20?",
+        "opcoes": [
+            216,
+            228,
+            220,
+            225
+        ],
+        "resposta": 220
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 13 x 12?",
+        "opcoes": [
+            147,
+            170,
+            163,
+            156
+        ],
+        "resposta": 156
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 10 x 12?",
+        "opcoes": [
+            116,
+            129,
+            123,
+            120
+        ],
+        "resposta": 120
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 3 x 7?",
+        "opcoes": [
+            27,
+            11,
+            31,
+            21
+        ],
+        "resposta": 21
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 5 x 8?",
+        "opcoes": [
+            42,
+            45,
+            37,
+            40
+        ],
+        "resposta": 40
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 11 x 12?",
+        "opcoes": [
+            132,
+            141,
+            137,
+            130
+        ],
+        "resposta": 132
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 20 x 9?",
+        "opcoes": [
+            180,
+            172,
+            181,
+            187
+        ],
+        "resposta": 180
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 15 x 4?",
+        "opcoes": [
+            60,
+            70,
+            50,
+            72
+        ],
+        "resposta": 60
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 3 x 19?",
+        "opcoes": [
+            57,
+            49,
+            64,
+            64
+        ],
+        "resposta": 57
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 10 x 9?",
+        "opcoes": [
+            94,
+            89,
+            90,
+            105
+        ],
+        "resposta": 90
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 8 x 11?",
+        "opcoes": [
+            91,
+            88,
+            86,
+            100
+        ],
+        "resposta": 88
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 18 x 14?",
+        "opcoes": [
+            247,
+            256,
+            252,
+            265
+        ],
+        "resposta": 252
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 12 x 20?",
+        "opcoes": [
+            244,
+            255,
+            240,
+            230
+        ],
+        "resposta": 240
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 9 x 9?",
+        "opcoes": [
+            71,
+            81,
+            85,
+            87
+        ],
+        "resposta": 81
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 8 x 8?",
+        "opcoes": [
+            64,
+            70,
+            78,
+            62
+        ],
+        "resposta": 64
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 12 x 10?",
+        "opcoes": [
+            120,
+            111,
+            129,
+            129
+        ],
+        "resposta": 120
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 7 x 11?",
+        "opcoes": [
+            76,
+            77,
+            79,
+            89
+        ],
+        "resposta": 77
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 5 x 11?",
+        "opcoes": [
+            58,
+            50,
+            63,
+            55
+        ],
+        "resposta": 55
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 9 x 20?",
+        "opcoes": [
+            180,
+            185,
+            181,
+            179
+        ],
+        "resposta": 180
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 3 x 20?",
+        "opcoes": [
+            72,
+            63,
+            58,
+            60
+        ],
+        "resposta": 60
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 20 x 19?",
+        "opcoes": [
+            370,
+            380,
+            388,
+            392
+        ],
+        "resposta": 380
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 14 x 18?",
+        "opcoes": [
+            252,
+            262,
+            248,
+            263
+        ],
+        "resposta": 252
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 9 x 10?",
+        "opcoes": [
+            95,
+            90,
+            86,
+            100
+        ],
+        "resposta": 90
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 20 x 15?",
+        "opcoes": [
+            304,
+            300,
+            315,
+            291
+        ],
+        "resposta": 300
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 5 x 8?",
+        "opcoes": [
+            49,
+            45,
+            37,
+            40
+        ],
+        "resposta": 40
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 15 x 19?",
+        "opcoes": [
+            285,
+            294,
+            288,
+            278
+        ],
+        "resposta": 285
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 20 x 9?",
+        "opcoes": [
+            180,
+            183,
+            176,
+            190
+        ],
+        "resposta": 180
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 10 x 13?",
+        "opcoes": [
+            133,
+            130,
+            120,
+            143
+        ],
+        "resposta": 130
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 19 x 18?",
+        "opcoes": [
+            351,
+            349,
+            333,
+            342
+        ],
+        "resposta": 342
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 7 x 4?",
+        "opcoes": [
+            42,
+            31,
+            28,
+            24
+        ],
+        "resposta": 28
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 10 x 11?",
+        "opcoes": [
+            118,
+            110,
+            102,
+            124
+        ],
+        "resposta": 110
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 9 x 8?",
+        "opcoes": [
+            68,
+            73,
+            87,
+            72
+        ],
+        "resposta": 72
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 14 x 9?",
+        "opcoes": [
+            126,
+            121,
+            130,
+            135
+        ],
+        "resposta": 126
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 12 x 15?",
+        "opcoes": [
+            170,
+            191,
+            185,
+            180
+        ],
+        "resposta": 180
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 5 x 3?",
+        "opcoes": [
+            21,
+            9,
+            28,
+            15
+        ],
+        "resposta": 15
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 20 x 5?",
+        "opcoes": [
+            90,
+            113,
+            100,
+            107
+        ],
+        "resposta": 100
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 3 x 4?",
+        "opcoes": [
+            19,
+            6,
+            25,
+            12
+        ],
+        "resposta": 12
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 17 x 16?",
+        "opcoes": [
+            281,
+            273,
+            272,
+            270
+        ],
+        "resposta": 272
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 18 x 17?",
+        "opcoes": [
+            314,
+            302,
+            306,
+            319
+        ],
+        "resposta": 306
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 15 x 10?",
+        "opcoes": [
+            140,
+            164,
+            150,
+            151
+        ],
+        "resposta": 150
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 9 x 8?",
+        "opcoes": [
+            72,
+            81,
+            67,
+            86
+        ],
+        "resposta": 72
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 6 x 20?",
+        "opcoes": [
+            121,
+            127,
+            115,
+            120
+        ],
+        "resposta": 120
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 7 x 3?",
+        "opcoes": [
+            23,
+            13,
+            33,
+            21
+        ],
+        "resposta": 21
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 5 x 17?",
+        "opcoes": [
+            84,
+            95,
+            85,
+            91
+        ],
+        "resposta": 85
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 17 x 9?",
+        "opcoes": [
+            147,
+            153,
+            163,
+            157
+        ],
+        "resposta": 153
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 6 x 19?",
+        "opcoes": [
+            123,
+            111,
+            118,
+            114
+        ],
+        "resposta": 114
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 17 x 19?",
+        "opcoes": [
+            336,
+            326,
+            315,
+            323
+        ],
+        "resposta": 323
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 16 x 11?",
+        "opcoes": [
+            176,
+            179,
+            188,
+            171
+        ],
+        "resposta": 176
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 11 x 4?",
+        "opcoes": [
+            57,
+            44,
+            51,
+            35
+        ],
+        "resposta": 44
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 8 x 19?",
+        "opcoes": [
+            142,
+            161,
+            161,
+            152
+        ],
+        "resposta": 152
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 3 x 4?",
+        "opcoes": [
+            20,
+            6,
+            12,
+            21
+        ],
+        "resposta": 12
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 14 x 10?",
+        "opcoes": [
+            137,
+            144,
+            140,
+            147
+        ],
+        "resposta": 140
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 18 x 8?",
+        "opcoes": [
+            138,
+            145,
+            157,
+            144
+        ],
+        "resposta": 144
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 9 x 15?",
+        "opcoes": [
+            135,
+            146,
+            144,
+            126
+        ],
+        "resposta": 135
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 11 x 4?",
+        "opcoes": [
+            36,
+            47,
+            44,
+            55
+        ],
+        "resposta": 44
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 12 x 8?",
+        "opcoes": [
+            101,
+            98,
+            96,
+            93
+        ],
+        "resposta": 96
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 15 x 19?",
+        "opcoes": [
+            291,
+            289,
+            282,
+            285
+        ],
+        "resposta": 285
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 12 x 14?",
+        "opcoes": [
+            174,
+            168,
+            171,
+            164
+        ],
+        "resposta": 168
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 7 x 13?",
+        "opcoes": [
+            103,
+            95,
+            91,
+            88
+        ],
+        "resposta": 91
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 4 x 18?",
+        "opcoes": [
+            72,
+            82,
+            65,
+            75
+        ],
+        "resposta": 72
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 8 x 2?",
+        "opcoes": [
+            16,
+            18,
+            7,
+            30
+        ],
+        "resposta": 16
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 19 x 2?",
+        "opcoes": [
+            38,
+            28,
+            48,
+            45
+        ],
+        "resposta": 38
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 8 x 12?",
+        "opcoes": [
+            93,
+            108,
+            99,
+            96
+        ],
+        "resposta": 96
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 12 x 5?",
+        "opcoes": [
+            57,
+            63,
+            60,
+            68
+        ],
+        "resposta": 60
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 14 x 17?",
+        "opcoes": [
+            228,
+            242,
+            244,
+            238
+        ],
+        "resposta": 238
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 3 x 19?",
+        "opcoes": [
+            47,
+            57,
+            70,
+            62
+        ],
+        "resposta": 57
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 14 x 16?",
+        "opcoes": [
+            222,
+            224,
+            230,
+            238
+        ],
+        "resposta": 224
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 19 x 7?",
+        "opcoes": [
+            142,
+            125,
+            140,
+            133
+        ],
+        "resposta": 133
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 4 x 6?",
+        "opcoes": [
+            18,
+            25,
+            39,
+            24
+        ],
+        "resposta": 24
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 17 x 3?",
+        "opcoes": [
+            48,
+            51,
+            59,
+            55
+        ],
+        "resposta": 51
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 17 x 14?",
+        "opcoes": [
+            232,
+            238,
+            243,
+            252
+        ],
+        "resposta": 238
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 16 x 18?",
+        "opcoes": [
+            293,
+            295,
+            278,
+            288
+        ],
+        "resposta": 288
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 15 x 4?",
+        "opcoes": [
+            69,
+            51,
+            64,
+            60
+        ],
+        "resposta": 60
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 9 x 13?",
+        "opcoes": [
+            114,
+            118,
+            117,
+            124
+        ],
+        "resposta": 117
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 2 x 11?",
+        "opcoes": [
+            32,
+            13,
+            22,
+            25
+        ],
+        "resposta": 22
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 10 x 8?",
+        "opcoes": [
+            82,
+            79,
+            92,
+            80
+        ],
+        "resposta": 80
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 8 x 3?",
+        "opcoes": [
+            24,
+            34,
+            29,
+            17
+        ],
+        "resposta": 24
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 14 x 4?",
+        "opcoes": [
+            58,
+            56,
+            49,
+            68
+        ],
+        "resposta": 56
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 14 x 11?",
+        "opcoes": [
+            151,
+            161,
+            154,
+            161
+        ],
+        "resposta": 154
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 16 x 7?",
+        "opcoes": [
+            112,
+            107,
+            118,
+            119
+        ],
+        "resposta": 112
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 9 x 17?",
+        "opcoes": [
+            160,
+            153,
+            144,
+            163
+        ],
+        "resposta": 153
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 11 x 20?",
+        "opcoes": [
+            225,
+            220,
+            217,
+            233
+        ],
+        "resposta": 220
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 14 x 14?",
+        "opcoes": [
+            195,
+            204,
+            196,
+            202
+        ],
+        "resposta": 196
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 3 x 12?",
+        "opcoes": [
+            27,
+            45,
+            36,
+            46
+        ],
+        "resposta": 36
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 3 x 20?",
+        "opcoes": [
+            58,
+            69,
+            60,
+            65
+        ],
+        "resposta": 60
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 5 x 5?",
+        "opcoes": [
+            17,
+            25,
+            26,
+            33
+        ],
+        "resposta": 25
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 13 x 11?",
+        "opcoes": [
+            143,
+            155,
+            133,
+            146
+        ],
+        "resposta": 143
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 12 x 19?",
+        "opcoes": [
+            225,
+            237,
+            228,
+            235
+        ],
+        "resposta": 228
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 7 x 19?",
+        "opcoes": [
+            133,
+            132,
+            147,
+            143
+        ],
+        "resposta": 133
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 10 x 4?",
+        "opcoes": [
+            46,
+            47,
+            37,
+            40
+        ],
+        "resposta": 40
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 19 x 9?",
+        "opcoes": [
+            180,
+            179,
+            171,
+            163
+        ],
+        "resposta": 171
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 8 x 12?",
+        "opcoes": [
+            88,
+            104,
+            96,
+            105
+        ],
+        "resposta": 96
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 5 x 10?",
+        "opcoes": [
+            51,
+            64,
+            50,
+            43
+        ],
+        "resposta": 50
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 4 x 11?",
+        "opcoes": [
+            44,
+            47,
+            49,
+            34
+        ],
+        "resposta": 44
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 14 x 8?",
+        "opcoes": [
+            125,
+            112,
+            116,
+            103
+        ],
+        "resposta": 112
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 16 x 19?",
+        "opcoes": [
+            301,
+            317,
+            304,
+            311
+        ],
+        "resposta": 304
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 7 x 14?",
+        "opcoes": [
+            106,
+            98,
+            103,
+            89
+        ],
+        "resposta": 98
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 12 x 5?",
+        "opcoes": [
+            61,
+            74,
+            55,
+            60
+        ],
+        "resposta": 60
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 20 x 19?",
+        "opcoes": [
+            380,
+            388,
+            386,
+            378
+        ],
+        "resposta": 380
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 10 x 16?",
+        "opcoes": [
+            160,
+            161,
+            159,
+            170
+        ],
+        "resposta": 160
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 6 x 3?",
+        "opcoes": [
+            29,
+            12,
+            18,
+            22
+        ],
+        "resposta": 18
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 16 x 19?",
+        "opcoes": [
+            296,
+            312,
+            309,
+            304
+        ],
+        "resposta": 304
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 11 x 18?",
+        "opcoes": [
+            211,
+            195,
+            203,
+            198
+        ],
+        "resposta": 198
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 15 x 17?",
+        "opcoes": [
+            261,
+            255,
+            268,
+            248
+        ],
+        "resposta": 255
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 16 x 19?",
+        "opcoes": [
+            313,
+            304,
+            294,
+            310
+        ],
+        "resposta": 304
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 3 x 10?",
+        "opcoes": [
+            40,
+            30,
+            45,
+            23
+        ],
+        "resposta": 30
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 7 x 7?",
+        "opcoes": [
+            45,
+            60,
+            49,
+            52
+        ],
+        "resposta": 49
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 13 x 10?",
+        "opcoes": [
+            140,
+            122,
+            130,
+            133
+        ],
+        "resposta": 130
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 4 x 4?",
+        "opcoes": [
+            30,
+            16,
+            8,
+            17
+        ],
+        "resposta": 16
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 3 x 2?",
+        "opcoes": [
+            2,
+            8,
+            19,
+            6
+        ],
+        "resposta": 6
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 4 x 5?",
+        "opcoes": [
+            20,
+            29,
+            14,
+            26
+        ],
+        "resposta": 20
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 9 x 2?",
+        "opcoes": [
+            18,
+            23,
+            14,
+            19
+        ],
+        "resposta": 18
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 11 x 20?",
+        "opcoes": [
+            213,
+            230,
+            228,
+            220
+        ],
+        "resposta": 220
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 3 x 12?",
+        "opcoes": [
+            29,
+            36,
+            45,
+            44
+        ],
+        "resposta": 36
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 9 x 8?",
+        "opcoes": [
+            67,
+            76,
+            87,
+            72
+        ],
+        "resposta": 72
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 10 x 4?",
+        "opcoes": [
+            49,
+            52,
+            40,
+            34
+        ],
+        "resposta": 40
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 14 x 5?",
+        "opcoes": [
+            80,
+            63,
+            83,
+            70
+        ],
+        "resposta": 70
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 4 x 10?",
+        "opcoes": [
+            36,
+            43,
+            40,
+            48
+        ],
+        "resposta": 40
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 7 x 12?",
+        "opcoes": [
+            84,
+            75,
+            93,
+            94
+        ],
+        "resposta": 84
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 20 x 6?",
+        "opcoes": [
+            131,
+            120,
+            113,
+            127
+        ],
+        "resposta": 120
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 6 x 10?",
+        "opcoes": [
+            70,
+            60,
+            64,
+            51
+        ],
+        "resposta": 60
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 5 x 14?",
+        "opcoes": [
+            70,
+            78,
+            67,
+            72
+        ],
+        "resposta": 70
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 6 x 17?",
+        "opcoes": [
+            100,
+            113,
+            102,
+            112
+        ],
+        "resposta": 102
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 19 x 13?",
+        "opcoes": [
+            247,
+            255,
+            251,
+            239
+        ],
+        "resposta": 247
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 16 x 11?",
+        "opcoes": [
+            183,
+            189,
+            176,
+            171
+        ],
+        "resposta": 176
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 10 x 14?",
+        "opcoes": [
+            146,
+            140,
+            145,
+            133
+        ],
+        "resposta": 140
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 6 x 13?",
+        "opcoes": [
+            83,
+            78,
+            68,
+            91
+        ],
+        "resposta": 78
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 15 x 8?",
+        "opcoes": [
+            116,
+            128,
+            120,
+            127
+        ],
+        "resposta": 120
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 10 x 7?",
+        "opcoes": [
+            61,
+            76,
+            70,
+            80
+        ],
+        "resposta": 70
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 15 x 2?",
+        "opcoes": [
+            39,
+            27,
+            30,
+            41
+        ],
+        "resposta": 30
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 20 x 2?",
+        "opcoes": [
+            52,
+            50,
+            39,
+            40
+        ],
+        "resposta": 40
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 5 x 2?",
+        "opcoes": [
+            10,
+            12,
+            2,
+            15
+        ],
+        "resposta": 10
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 5 x 2?",
+        "opcoes": [
+            16,
+            6,
+            10,
+            21
+        ],
+        "resposta": 10
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 12 x 17?",
+        "opcoes": [
+            214,
+            198,
+            213,
+            204
+        ],
+        "resposta": 204
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 19 x 4?",
+        "opcoes": [
+            76,
+            86,
+            75,
+            81
+        ],
+        "resposta": 76
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 5 x 11?",
+        "opcoes": [
+            49,
+            55,
+            65,
+            57
+        ],
+        "resposta": 55
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 3 x 10?",
+        "opcoes": [
+            43,
+            35,
+            30,
+            29
+        ],
+        "resposta": 30
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 2 x 3?",
+        "opcoes": [
+            18,
+            4,
+            7,
+            6
+        ],
+        "resposta": 6
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 8 x 8?",
+        "opcoes": [
+            74,
+            78,
+            58,
+            64
+        ],
+        "resposta": 64
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 3 x 7?",
+        "opcoes": [
+            21,
+            23,
+            17,
+            32
+        ],
+        "resposta": 21
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 16 x 3?",
+        "opcoes": [
+            45,
+            48,
+            50,
+            59
+        ],
+        "resposta": 48
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 20 x 11?",
+        "opcoes": [
+            224,
+            213,
+            220,
+            229
+        ],
+        "resposta": 220
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 3 x 10?",
+        "opcoes": [
+            38,
+            30,
+            37,
+            25
+        ],
+        "resposta": 30
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 16 x 2?",
+        "opcoes": [
+            42,
+            40,
+            32,
+            22
+        ],
+        "resposta": 32
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 6 x 4?",
+        "opcoes": [
+            24,
+            34,
+            30,
+            14
+        ],
+        "resposta": 24
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 19 x 11?",
+        "opcoes": [
+            218,
+            209,
+            211,
+            208
+        ],
+        "resposta": 209
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 19 x 3?",
+        "opcoes": [
+            54,
+            59,
+            70,
+            57
+        ],
+        "resposta": 57
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 2 x 8?",
+        "opcoes": [
+            24,
+            16,
+            24,
+            9
+        ],
+        "resposta": 16
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 12 x 7?",
+        "opcoes": [
+            84,
+            90,
+            83,
+            98
+        ],
+        "resposta": 84
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 3 x 16?",
+        "opcoes": [
+            43,
+            56,
+            48,
+            53
+        ],
+        "resposta": 48
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 20 x 9?",
+        "opcoes": [
+            180,
+            181,
+            192,
+            171
+        ],
+        "resposta": 180
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 16 x 4?",
+        "opcoes": [
+            71,
+            63,
+            70,
+            64
+        ],
+        "resposta": 64
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 7 x 11?",
+        "opcoes": [
+            78,
+            92,
+            72,
+            77
+        ],
+        "resposta": 77
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 16 x 7?",
+        "opcoes": [
+            117,
+            105,
+            112,
+            115
+        ],
+        "resposta": 112
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 19 x 4?",
+        "opcoes": [
+            88,
+            73,
+            83,
+            76
+        ],
+        "resposta": 76
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 18 x 15?",
+        "opcoes": [
+            273,
+            270,
+            263,
+            284
+        ],
+        "resposta": 270
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 7 x 8?",
+        "opcoes": [
+            47,
+            56,
+            67,
+            61
+        ],
+        "resposta": 56
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 17 x 12?",
+        "opcoes": [
+            211,
+            195,
+            210,
+            204
+        ],
+        "resposta": 204
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 16 x 20?",
+        "opcoes": [
+            320,
+            334,
+            327,
+            310
+        ],
+        "resposta": 320
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 10 x 16?",
+        "opcoes": [
+            151,
+            167,
+            160,
+            162
+        ],
+        "resposta": 160
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 3 x 14?",
+        "opcoes": [
+            49,
+            51,
+            36,
+            42
+        ],
+        "resposta": 42
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 18 x 14?",
+        "opcoes": [
+            246,
+            258,
+            252,
+            264
+        ],
+        "resposta": 252
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 4 x 15?",
+        "opcoes": [
+            68,
+            60,
+            67,
+            57
+        ],
+        "resposta": 60
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 17 x 10?",
+        "opcoes": [
+            170,
+            177,
+            171,
+            168
+        ],
+        "resposta": 170
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 18 x 7?",
+        "opcoes": [
+            133,
+            126,
+            135,
+            122
+        ],
+        "resposta": 126
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 9 x 10?",
+        "opcoes": [
+            95,
+            105,
+            90,
+            85
+        ],
+        "resposta": 90
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 11 x 19?",
+        "opcoes": [
+            213,
+            204,
+            221,
+            209
+        ],
+        "resposta": 209
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 8 x 3?",
+        "opcoes": [
+            18,
+            30,
+            24,
+            29
+        ],
+        "resposta": 24
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 13 x 10?",
+        "opcoes": [
+            120,
+            139,
+            137,
+            130
+        ],
+        "resposta": 130
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 2 x 7?",
+        "opcoes": [
+            25,
+            14,
+            22,
+            10
+        ],
+        "resposta": 14
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 8 x 5?",
+        "opcoes": [
+            55,
+            40,
+            36,
+            43
+        ],
+        "resposta": 40
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 4 x 7?",
+        "opcoes": [
+            28,
+            18,
+            39,
+            30
+        ],
+        "resposta": 28
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 15 x 10?",
+        "opcoes": [
+            152,
+            141,
+            165,
+            150
+        ],
+        "resposta": 150
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 13 x 11?",
+        "opcoes": [
+            140,
+            143,
+            151,
+            153
+        ],
+        "resposta": 143
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 9 x 13?",
+        "opcoes": [
+            117,
+            124,
+            131,
+            112
+        ],
+        "resposta": 117
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 17 x 5?",
+        "opcoes": [
+            90,
+            85,
+            91,
+            79
+        ],
+        "resposta": 85
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 17 x 10?",
+        "opcoes": [
+            170,
+            165,
+            174,
+            185
+        ],
+        "resposta": 170
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 6 x 6?",
+        "opcoes": [
+            39,
+            47,
+            36,
+            28
+        ],
+        "resposta": 36
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 13 x 4?",
+        "opcoes": [
+            52,
+            42,
+            62,
+            61
+        ],
+        "resposta": 52
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "São Paulo",
+            "Brasília",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "resposta": "Brasília"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 18 x 14?",
+        "opcoes": [
+            267,
+            247,
+            252,
+            254
+        ],
+        "resposta": 252
+    },
+    {
+        "materia": "História",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1492",
+            "1500",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Atlântico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Cristóvão Colombo",
+            "Tiradentes"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 14 + 37?",
+        "opcoes": [
+            51,
+            55,
+            53,
+            49
+        ],
+        "resposta": 51
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 4 - 24?",
+        "opcoes": [
+            -23,
+            -7,
+            -20,
+            -14
+        ],
+        "resposta": -20
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 19 * 24?",
+        "opcoes": [
+            456,
+            464,
+            454,
+            463
+        ],
+        "resposta": 456
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 5 * 48?",
+        "opcoes": [
+            240,
+            237,
+            241,
+            242
+        ],
+        "resposta": 240
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 20 + 8?",
+        "opcoes": [
+            32,
+            18,
+            28,
+            31
+        ],
+        "resposta": 28
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 39 * 19?",
+        "opcoes": [
+            750,
+            741,
+            751,
+            736
+        ],
+        "resposta": 741
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 19 - 26?",
+        "opcoes": [
+            7,
+            -16,
+            -2,
+            -7
+        ],
+        "resposta": -7
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 6 * 7?",
+        "opcoes": [
+            48,
+            42,
+            32,
+            52
+        ],
+        "resposta": 42
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 32 - 20?",
+        "opcoes": [
+            12,
+            10,
+            20,
+            19
+        ],
+        "resposta": 12
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 10 + 29?",
+        "opcoes": [
+            44,
+            54,
+            39,
+            35
+        ],
+        "resposta": 39
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 41 - 30?",
+        "opcoes": [
+            11,
+            23,
+            3,
+            14
+        ],
+        "resposta": 11
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 43 + 29?",
+        "opcoes": [
+            86,
+            74,
+            65,
+            72
+        ],
+        "resposta": 72
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 38 - 3?",
+        "opcoes": [
+            50,
+            25,
+            35,
+            39
+        ],
+        "resposta": 35
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 10 + 13?",
+        "opcoes": [
+            24,
+            38,
+            23,
+            15
+        ],
+        "resposta": 23
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 4 + 16?",
+        "opcoes": [
+            24,
+            23,
+            11,
+            20
+        ],
+        "resposta": 20
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 5 - 23?",
+        "opcoes": [
+            -18,
+            -15,
+            -20,
+            -12
+        ],
+        "resposta": -18
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 21 - 13?",
+        "opcoes": [
+            8,
+            14,
+            6,
+            17
+        ],
+        "resposta": 8
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 45 - 49?",
+        "opcoes": [
+            -5,
+            2,
+            3,
+            -4
+        ],
+        "resposta": -4
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 47 + 48?",
+        "opcoes": [
+            98,
+            88,
+            95,
+            98
+        ],
+        "resposta": 95
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 41 + 17?",
+        "opcoes": [
+            71,
+            51,
+            64,
+            58
+        ],
+        "resposta": 58
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madrid",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Qual evento ocorreu em 1822?",
+        "opcoes": [
+            "Independência do Brasil",
+            "Proclamação da República",
+            "Descobrimento do Brasil",
+            "Fim da escravidão"
+        ],
+        "resposta": "Independência do Brasil"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 25 + 43?",
+        "opcoes": [
+            63,
+            68,
+            77,
+            70
+        ],
+        "resposta": 68
+    },
+    {
+        "materia": "História",
+        "pergunta": "Qual evento ocorreu em 1822?",
+        "opcoes": [
+            "Independência do Brasil",
+            "Proclamação da República",
+            "Descobrimento do Brasil",
+            "Fim da escravidão"
+        ],
+        "resposta": "Independência do Brasil"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem foi o primeiro presidente do Brasil?",
+        "opcoes": [
+            "Deodoro da Fonseca",
+            "Getúlio Vargas",
+            "Dom Pedro II",
+            "Juscelino Kubitschek"
+        ],
+        "resposta": "Deodoro da Fonseca"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 32 + 22?",
+        "opcoes": [
+            54,
+            64,
+            52,
+            58
+        ],
+        "resposta": 54
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 10 + 20?",
+        "opcoes": [
+            38,
+            28,
+            33,
+            30
+        ],
+        "resposta": 30
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 25 + 15?",
+        "opcoes": [
+            46,
+            37,
+            40,
+            42
+        ],
+        "resposta": 40
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quem foi o primeiro presidente do Brasil?",
+        "opcoes": [
+            "Deodoro da Fonseca",
+            "Getúlio Vargas",
+            "Dom Pedro II",
+            "Juscelino Kubitschek"
+        ],
+        "resposta": "Deodoro da Fonseca"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 29 + 35?",
+        "opcoes": [
+            64,
+            68,
+            60,
+            67
+        ],
+        "resposta": 64
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 47 + 20?",
+        "opcoes": [
+            64,
+            72,
+            71,
+            67
+        ],
+        "resposta": 67
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 18 + 22?",
+        "opcoes": [
+            39,
+            43,
+            40,
+            49
+        ],
+        "resposta": 40
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 16 + 18?",
+        "opcoes": [
+            34,
+            38,
+            40,
+            30
+        ],
+        "resposta": 34
+    },
+    {
+        "materia": "História",
+        "pergunta": "Qual evento ocorreu em 1822?",
+        "opcoes": [
+            "Independência do Brasil",
+            "Proclamação da República",
+            "Descobrimento do Brasil",
+            "Fim da escravidão"
+        ],
+        "resposta": "Independência do Brasil"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 23 + 31?",
+        "opcoes": [
+            55,
+            49,
+            54,
+            56
+        ],
+        "resposta": 54
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 7 + 7?",
+        "opcoes": [
+            23,
+            14,
+            16,
+            12
+        ],
+        "resposta": 14
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 7 + 13?",
+        "opcoes": [
+            20,
+            28,
+            18,
+            23
+        ],
+        "resposta": 20
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madrid",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 48 + 18?",
+        "opcoes": [
+            66,
+            75,
+            67,
+            63
+        ],
+        "resposta": 66
+    },
+    {
+        "materia": "Matemática",
+        "pergunta": "Quanto é 11 + 10?",
+        "opcoes": [
+            29,
+            19,
+            23,
+            21
+        ],
+        "resposta": 21
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    }
+]

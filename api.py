@@ -1,0 +1,61 @@
+import json
+import random
+from fastapi import FastAPI
+
+app = FastAPI()
+
+# carregar perguntas
+with open("banco_perguntas.json", "r", encoding="utf-8") as f:
+    perguntas = json.load(f)
+
+# carregar usuarios
+try:
+    with open("usuarios.json", "r", encoding="utf-8") as f:
+        usuarios = json.load(f)
+except:
+    usuarios = []
+
+# registrar professor
+@app.post("/registrar")
+def registrar(usuario: str, senha: str):
+
+    novo = {
+        "usuario": usuario,
+        "senha": senha
+    }
+
+    usuarios.append(novo)
+
+    with open("usuarios.json", "w", encoding="utf-8") as f:
+        json.dump(usuarios, f, indent=4)
+
+    return {"mensagem": "Usuário criado com sucesso"}
+
+# login
+@app.post("/login")
+def login(usuario: str, senha: str):
+
+    for u in usuarios:
+        if u["usuario"] == usuario and u["senha"] == senha:
+            return {"mensagem": "Login realizado"}
+
+    return {"erro": "Usuário ou senha incorretos"}
+
+# gerar prova
+@app.get("/gerar_prova")
+def gerar_prova(materia: str, quantidade: int):
+
+    filtradas = []
+
+    for p in perguntas:
+        if p["materia"].lower() == materia.lower():
+            filtradas.append(p)
+
+    quantidade = min(quantidade, len(filtradas))
+
+    prova = random.sample(filtradas, quantidade)
+
+    return {
+        "materia": materia,
+        "questoes": prova
+    }
