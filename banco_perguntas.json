@@ -8648,5 +8648,6505 @@
             47
         ],
         "resposta": 40
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 5 × 4 ?",
+        "opcoes": [
+            29,
+            25,
+            16,
+            20
+        ],
+        "resposta": 20
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 20 ?",
+        "opcoes": [
+            202,
+            200,
+            207,
+            196
+        ],
+        "resposta": 200
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 13 × 17 ?",
+        "opcoes": [
+            217,
+            223,
+            231,
+            221
+        ],
+        "resposta": 221
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 4 ?",
+        "opcoes": [
+            46,
+            41,
+            35,
+            40
+        ],
+        "resposta": 40
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 15 ?",
+        "opcoes": [
+            273,
+            270,
+            277,
+            266
+        ],
+        "resposta": 270
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 10 ?",
+        "opcoes": [
+            177,
+            186,
+            184,
+            180
+        ],
+        "resposta": 180
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 9 ?",
+        "opcoes": [
+            181,
+            177,
+            180,
+            190
+        ],
+        "resposta": 180
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 14 ?",
+        "opcoes": [
+            163,
+            153,
+            154,
+            158
+        ],
+        "resposta": 154
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 17 ?",
+        "opcoes": [
+            340,
+            341,
+            336,
+            347
+        ],
+        "resposta": 340
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 13 × 15 ?",
+        "opcoes": [
+            195,
+            205,
+            191,
+            198
+        ],
+        "resposta": 195
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 3 × 3 ?",
+        "opcoes": [
+            5,
+            9,
+            13,
+            16
+        ],
+        "resposta": 9
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 5 × 18 ?",
+        "opcoes": [
+            99,
+            90,
+            94,
+            89
+        ],
+        "resposta": 90
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 17 ?",
+        "opcoes": [
+            107,
+            108,
+            102,
+            99
+        ],
+        "resposta": 102
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 14 × 16 ?",
+        "opcoes": [
+            225,
+            224,
+            232,
+            223
+        ],
+        "resposta": 224
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 6 ?",
+        "opcoes": [
+            60,
+            62,
+            58,
+            68
+        ],
+        "resposta": 60
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 14 × 15 ?",
+        "opcoes": [
+            219,
+            211,
+            209,
+            210
+        ],
+        "resposta": 210
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 1 × 7 ?",
+        "opcoes": [
+            7,
+            12,
+            4,
+            15
+        ],
+        "resposta": 7
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 3 ?",
+        "opcoes": [
+            29,
+            24,
+            23,
+            31
+        ],
+        "resposta": 24
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 14 × 5 ?",
+        "opcoes": [
+            73,
+            80,
+            70,
+            69
+        ],
+        "resposta": 70
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 11 ?",
+        "opcoes": [
+            205,
+            214,
+            216,
+            209
+        ],
+        "resposta": 209
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 1 ?",
+        "opcoes": [
+            14,
+            5,
+            10,
+            17
+        ],
+        "resposta": 10
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 3 ?",
+        "opcoes": [
+            27,
+            26,
+            29,
+            37
+        ],
+        "resposta": 27
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 2 × 2 ?",
+        "opcoes": [
+            10,
+            4,
+            7,
+            3
+        ],
+        "resposta": 4
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 5 ?",
+        "opcoes": [
+            43,
+            36,
+            40,
+            46
+        ],
+        "resposta": 40
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 6 ?",
+        "opcoes": [
+            69,
+            56,
+            60,
+            61
+        ],
+        "resposta": 60
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 5 × 7 ?",
+        "opcoes": [
+            42,
+            40,
+            35,
+            34
+        ],
+        "resposta": 35
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 4 ?",
+        "opcoes": [
+            64,
+            68,
+            73,
+            62
+        ],
+        "resposta": 64
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 16 ?",
+        "opcoes": [
+            241,
+            246,
+            236,
+            240
+        ],
+        "resposta": 240
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 14 ?",
+        "opcoes": [
+            285,
+            288,
+            275,
+            280
+        ],
+        "resposta": 280
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 4 × 11 ?",
+        "opcoes": [
+            47,
+            52,
+            44,
+            40
+        ],
+        "resposta": 44
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 17 ?",
+        "opcoes": [
+            97,
+            106,
+            102,
+            111
+        ],
+        "resposta": 102
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 5 × 16 ?",
+        "opcoes": [
+            86,
+            80,
+            79,
+            84
+        ],
+        "resposta": 80
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 15 ?",
+        "opcoes": [
+            240,
+            248,
+            238,
+            244
+        ],
+        "resposta": 240
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 4 × 13 ?",
+        "opcoes": [
+            53,
+            52,
+            49,
+            59
+        ],
+        "resposta": 52
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 2 ?",
+        "opcoes": [
+            16,
+            20,
+            27,
+            22
+        ],
+        "resposta": 20
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 4 × 13 ?",
+        "opcoes": [
+            52,
+            51,
+            58,
+            57
+        ],
+        "resposta": 52
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 5 × 10 ?",
+        "opcoes": [
+            48,
+            50,
+            57,
+            54
+        ],
+        "resposta": 50
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 13 × 2 ?",
+        "opcoes": [
+            32,
+            26,
+            24,
+            30
+        ],
+        "resposta": 26
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 4 × 19 ?",
+        "opcoes": [
+            84,
+            76,
+            74,
+            78
+        ],
+        "resposta": 76
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 9 ?",
+        "opcoes": [
+            181,
+            171,
+            176,
+            169
+        ],
+        "resposta": 171
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 13 ?",
+        "opcoes": [
+            208,
+            218,
+            210,
+            204
+        ],
+        "resposta": 208
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 2 ?",
+        "opcoes": [
+            24,
+            28,
+            22,
+            21
+        ],
+        "resposta": 22
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 4 ?",
+        "opcoes": [
+            42,
+            44,
+            49,
+            53
+        ],
+        "resposta": 44
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 4 × 19 ?",
+        "opcoes": [
+            76,
+            82,
+            80,
+            73
+        ],
+        "resposta": 76
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 14 × 8 ?",
+        "opcoes": [
+            121,
+            112,
+            113,
+            111
+        ],
+        "resposta": 112
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 17 ?",
+        "opcoes": [
+            195,
+            188,
+            183,
+            187
+        ],
+        "resposta": 187
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 6 ?",
+        "opcoes": [
+            104,
+            102,
+            97,
+            112
+        ],
+        "resposta": 102
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 3 ?",
+        "opcoes": [
+            32,
+            27,
+            35,
+            22
+        ],
+        "resposta": 27
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 10 ?",
+        "opcoes": [
+            196,
+            205,
+            200,
+            208
+        ],
+        "resposta": 200
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 2 × 17 ?",
+        "opcoes": [
+            41,
+            35,
+            34,
+            33
+        ],
+        "resposta": 34
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 16 ?",
+        "opcoes": [
+            125,
+            138,
+            130,
+            128
+        ],
+        "resposta": 128
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 10 ?",
+        "opcoes": [
+            193,
+            190,
+            196,
+            189
+        ],
+        "resposta": 190
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 18 ?",
+        "opcoes": [
+            157,
+            169,
+            162,
+            165
+        ],
+        "resposta": 162
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 9 ?",
+        "opcoes": [
+            166,
+            161,
+            169,
+            162
+        ],
+        "resposta": 162
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 5 ?",
+        "opcoes": [
+            59,
+            50,
+            55,
+            65
+        ],
+        "resposta": 55
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 18 ?",
+        "opcoes": [
+            270,
+            266,
+            278,
+            273
+        ],
+        "resposta": 270
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 18 ?",
+        "opcoes": [
+            324,
+            319,
+            332,
+            328
+        ],
+        "resposta": 324
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 1 ?",
+        "opcoes": [
+            11,
+            18,
+            6,
+            16
+        ],
+        "resposta": 11
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 14 ?",
+        "opcoes": [
+            126,
+            133,
+            123,
+            131
+        ],
+        "resposta": 126
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 19 ?",
+        "opcoes": [
+            388,
+            375,
+            380,
+            381
+        ],
+        "resposta": 380
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 14 ?",
+        "opcoes": [
+            284,
+            287,
+            280,
+            276
+        ],
+        "resposta": 280
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 1 ?",
+        "opcoes": [
+            16,
+            12,
+            22,
+            8
+        ],
+        "resposta": 12
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 4 × 12 ?",
+        "opcoes": [
+            44,
+            56,
+            52,
+            48
+        ],
+        "resposta": 48
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 2 × 9 ?",
+        "opcoes": [
+            27,
+            23,
+            13,
+            18
+        ],
+        "resposta": 18
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 1 × 18 ?",
+        "opcoes": [
+            25,
+            15,
+            20,
+            18
+        ],
+        "resposta": 18
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 12 ?",
+        "opcoes": [
+            189,
+            202,
+            197,
+            192
+        ],
+        "resposta": 192
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 5 × 4 ?",
+        "opcoes": [
+            16,
+            21,
+            20,
+            29
+        ],
+        "resposta": 20
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 20 ?",
+        "opcoes": [
+            124,
+            120,
+            115,
+            127
+        ],
+        "resposta": 120
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 14 × 20 ?",
+        "opcoes": [
+            280,
+            282,
+            279,
+            290
+        ],
+        "resposta": 280
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 14 ?",
+        "opcoes": [
+            224,
+            231,
+            223,
+            225
+        ],
+        "resposta": 224
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 3 × 18 ?",
+        "opcoes": [
+            49,
+            59,
+            62,
+            54
+        ],
+        "resposta": 54
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 19 ?",
+        "opcoes": [
+            120,
+            114,
+            110,
+            115
+        ],
+        "resposta": 114
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 1 × 11 ?",
+        "opcoes": [
+            21,
+            15,
+            11,
+            7
+        ],
+        "resposta": 11
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 19 ?",
+        "opcoes": [
+            231,
+            228,
+            226,
+            237
+        ],
+        "resposta": 228
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 2 × 9 ?",
+        "opcoes": [
+            20,
+            27,
+            14,
+            18
+        ],
+        "resposta": 18
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 11 ?",
+        "opcoes": [
+            190,
+            182,
+            195,
+            187
+        ],
+        "resposta": 187
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 6 ?",
+        "opcoes": [
+            113,
+            115,
+            108,
+            105
+        ],
+        "resposta": 108
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 3 × 12 ?",
+        "opcoes": [
+            36,
+            40,
+            32,
+            45
+        ],
+        "resposta": 36
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 10 ?",
+        "opcoes": [
+            171,
+            165,
+            170,
+            177
+        ],
+        "resposta": 170
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 17 ?",
+        "opcoes": [
+            214,
+            204,
+            202,
+            206
+        ],
+        "resposta": 204
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 12 ?",
+        "opcoes": [
+            144,
+            141,
+            147,
+            153
+        ],
+        "resposta": 144
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 1 ?",
+        "opcoes": [
+            6,
+            9,
+            18,
+            8
+        ],
+        "resposta": 8
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 16 ?",
+        "opcoes": [
+            178,
+            182,
+            176,
+            173
+        ],
+        "resposta": 176
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 2 × 1 ?",
+        "opcoes": [
+            10,
+            -1,
+            2,
+            4
+        ],
+        "resposta": 2
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 5 ?",
+        "opcoes": [
+            45,
+            55,
+            42,
+            50
+        ],
+        "resposta": 45
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 5 ?",
+        "opcoes": [
+            95,
+            102,
+            94,
+            100
+        ],
+        "resposta": 95
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 6 ?",
+        "opcoes": [
+            90,
+            94,
+            86,
+            100
+        ],
+        "resposta": 90
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 13 ?",
+        "opcoes": [
+            111,
+            100,
+            104,
+            105
+        ],
+        "resposta": 104
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 8 ?",
+        "opcoes": [
+            148,
+            144,
+            142,
+            150
+        ],
+        "resposta": 144
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 6 ?",
+        "opcoes": [
+            71,
+            63,
+            74,
+            66
+        ],
+        "resposta": 66
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 3 × 11 ?",
+        "opcoes": [
+            37,
+            33,
+            32,
+            42
+        ],
+        "resposta": 33
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 3 ?",
+        "opcoes": [
+            54,
+            59,
+            63,
+            53
+        ],
+        "resposta": 54
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 7 ?",
+        "opcoes": [
+            118,
+            125,
+            122,
+            119
+        ],
+        "resposta": 119
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 3 ?",
+        "opcoes": [
+            56,
+            60,
+            51,
+            54
+        ],
+        "resposta": 54
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 9 ?",
+        "opcoes": [
+            165,
+            171,
+            162,
+            158
+        ],
+        "resposta": 162
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 2 × 18 ?",
+        "opcoes": [
+            31,
+            36,
+            43,
+            41
+        ],
+        "resposta": 36
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 18 ?",
+        "opcoes": [
+            157,
+            162,
+            168,
+            164
+        ],
+        "resposta": 162
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 3 ?",
+        "opcoes": [
+            57,
+            51,
+            55,
+            46
+        ],
+        "resposta": 51
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 11 ?",
+        "opcoes": [
+            216,
+            220,
+            228,
+            224
+        ],
+        "resposta": 220
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 15 ?",
+        "opcoes": [
+            182,
+            175,
+            180,
+            186
+        ],
+        "resposta": 180
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 15 ?",
+        "opcoes": [
+            237,
+            240,
+            247,
+            242
+        ],
+        "resposta": 240
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 6 ?",
+        "opcoes": [
+            58,
+            51,
+            54,
+            62
+        ],
+        "resposta": 54
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 6 ?",
+        "opcoes": [
+            86,
+            98,
+            90,
+            91
+        ],
+        "resposta": 90
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 13 ?",
+        "opcoes": [
+            76,
+            88,
+            78,
+            83
+        ],
+        "resposta": 78
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 14 × 19 ?",
+        "opcoes": [
+            270,
+            261,
+            266,
+            276
+        ],
+        "resposta": 266
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 14 ?",
+        "opcoes": [
+            244,
+            240,
+            238,
+            237
+        ],
+        "resposta": 238
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 9 ?",
+        "opcoes": [
+            99,
+            92,
+            87,
+            90
+        ],
+        "resposta": 90
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 12 ?",
+        "opcoes": [
+            204,
+            207,
+            210,
+            203
+        ],
+        "resposta": 204
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 5 ?",
+        "opcoes": [
+            92,
+            89,
+            84,
+            85
+        ],
+        "resposta": 85
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 5 × 1 ?",
+        "opcoes": [
+            6,
+            5,
+            14,
+            2
+        ],
+        "resposta": 5
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 15 ?",
+        "opcoes": [
+            274,
+            279,
+            270,
+            266
+        ],
+        "resposta": 270
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 3 ?",
+        "opcoes": [
+            61,
+            51,
+            46,
+            53
+        ],
+        "resposta": 51
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 18 ?",
+        "opcoes": [
+            154,
+            146,
+            139,
+            144
+        ],
+        "resposta": 144
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 7 × 10 ?",
+        "opcoes": [
+            69,
+            74,
+            80,
+            70
+        ],
+        "resposta": 70
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 10 ?",
+        "opcoes": [
+            88,
+            98,
+            90,
+            94
+        ],
+        "resposta": 90
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 3 ?",
+        "opcoes": [
+            58,
+            60,
+            51,
+            54
+        ],
+        "resposta": 54
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 14 × 7 ?",
+        "opcoes": [
+            95,
+            100,
+            105,
+            98
+        ],
+        "resposta": 98
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 11 ?",
+        "opcoes": [
+            91,
+            86,
+            95,
+            88
+        ],
+        "resposta": 88
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 13 × 18 ?",
+        "opcoes": [
+            241,
+            232,
+            235,
+            234
+        ],
+        "resposta": 234
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 18 ?",
+        "opcoes": [
+            183,
+            179,
+            189,
+            180
+        ],
+        "resposta": 180
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 1 × 3 ?",
+        "opcoes": [
+            4,
+            11,
+            2,
+            3
+        ],
+        "resposta": 3
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 7 ?",
+        "opcoes": [
+            127,
+            126,
+            135,
+            125
+        ],
+        "resposta": 126
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 17 ?",
+        "opcoes": [
+            193,
+            185,
+            187,
+            192
+        ],
+        "resposta": 187
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 7 ?",
+        "opcoes": [
+            42,
+            50,
+            39,
+            45
+        ],
+        "resposta": 42
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 20 ?",
+        "opcoes": [
+            360,
+            367,
+            357,
+            365
+        ],
+        "resposta": 360
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 12 ?",
+        "opcoes": [
+            190,
+            192,
+            194,
+            200
+        ],
+        "resposta": 192
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 16 ?",
+        "opcoes": [
+            293,
+            288,
+            286,
+            297
+        ],
+        "resposta": 288
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 18 ?",
+        "opcoes": [
+            292,
+            286,
+            297,
+            288
+        ],
+        "resposta": 288
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 18 ?",
+        "opcoes": [
+            328,
+            332,
+            324,
+            319
+        ],
+        "resposta": 324
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 12 ?",
+        "opcoes": [
+            192,
+            199,
+            188,
+            193
+        ],
+        "resposta": 192
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 2 ?",
+        "opcoes": [
+            37,
+            48,
+            43,
+            40
+        ],
+        "resposta": 40
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 17 ?",
+        "opcoes": [
+            265,
+            255,
+            252,
+            257
+        ],
+        "resposta": 255
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 2 × 11 ?",
+        "opcoes": [
+            18,
+            26,
+            31,
+            22
+        ],
+        "resposta": 22
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 9 ?",
+        "opcoes": [
+            148,
+            139,
+            144,
+            153
+        ],
+        "resposta": 144
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 7 × 16 ?",
+        "opcoes": [
+            112,
+            121,
+            110,
+            117
+        ],
+        "resposta": 112
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 2 ?",
+        "opcoes": [
+            18,
+            22,
+            14,
+            16
+        ],
+        "resposta": 16
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 4 × 2 ?",
+        "opcoes": [
+            8,
+            9,
+            16,
+            3
+        ],
+        "resposta": 8
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 7 × 2 ?",
+        "opcoes": [
+            11,
+            19,
+            20,
+            14
+        ],
+        "resposta": 14
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 16 ?",
+        "opcoes": [
+            251,
+            256,
+            265,
+            261
+        ],
+        "resposta": 256
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 7 × 20 ?",
+        "opcoes": [
+            141,
+            140,
+            135,
+            148
+        ],
+        "resposta": 140
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 1 × 14 ?",
+        "opcoes": [
+            10,
+            14,
+            24,
+            16
+        ],
+        "resposta": 14
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 1 × 18 ?",
+        "opcoes": [
+            22,
+            14,
+            18,
+            24
+        ],
+        "resposta": 18
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 18 ?",
+        "opcoes": [
+            163,
+            160,
+            169,
+            162
+        ],
+        "resposta": 162
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 3 × 14 ?",
+        "opcoes": [
+            46,
+            42,
+            37,
+            51
+        ],
+        "resposta": 42
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 1 ?",
+        "opcoes": [
+            14,
+            25,
+            20,
+            15
+        ],
+        "resposta": 15
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 2 ?",
+        "opcoes": [
+            38,
+            34,
+            32,
+            29
+        ],
+        "resposta": 32
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 12 ?",
+        "opcoes": [
+            97,
+            102,
+            96,
+            94
+        ],
+        "resposta": 96
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 12 ?",
+        "opcoes": [
+            216,
+            213,
+            219,
+            223
+        ],
+        "resposta": 216
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 3 × 5 ?",
+        "opcoes": [
+            15,
+            12,
+            20,
+            25
+        ],
+        "resposta": 15
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 3 ?",
+        "opcoes": [
+            26,
+            20,
+            17,
+            18
+        ],
+        "resposta": 18
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 12 ?",
+        "opcoes": [
+            117,
+            120,
+            123,
+            127
+        ],
+        "resposta": 120
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 2 × 4 ?",
+        "opcoes": [
+            13,
+            8,
+            18,
+            5
+        ],
+        "resposta": 8
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 4 ?",
+        "opcoes": [
+            34,
+            32,
+            42,
+            31
+        ],
+        "resposta": 32
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 3 × 10 ?",
+        "opcoes": [
+            32,
+            30,
+            26,
+            37
+        ],
+        "resposta": 30
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 11 ?",
+        "opcoes": [
+            165,
+            172,
+            167,
+            163
+        ],
+        "resposta": 165
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 14 × 12 ?",
+        "opcoes": [
+            173,
+            177,
+            165,
+            168
+        ],
+        "resposta": 168
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 6 ?",
+        "opcoes": [
+            64,
+            66,
+            56,
+            60
+        ],
+        "resposta": 60
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 7 × 11 ?",
+        "opcoes": [
+            77,
+            80,
+            83,
+            73
+        ],
+        "resposta": 77
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 19 ?",
+        "opcoes": [
+            291,
+            284,
+            285,
+            286
+        ],
+        "resposta": 285
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 5 ?",
+        "opcoes": [
+            45,
+            43,
+            54,
+            50
+        ],
+        "resposta": 45
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 6 ?",
+        "opcoes": [
+            111,
+            120,
+            115,
+            114
+        ],
+        "resposta": 114
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 17 ?",
+        "opcoes": [
+            339,
+            341,
+            349,
+            340
+        ],
+        "resposta": 340
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 20 ?",
+        "opcoes": [
+            357,
+            360,
+            369,
+            362
+        ],
+        "resposta": 360
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 5 × 12 ?",
+        "opcoes": [
+            60,
+            59,
+            69,
+            62
+        ],
+        "resposta": 60
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 5 × 15 ?",
+        "opcoes": [
+            85,
+            77,
+            75,
+            70
+        ],
+        "resposta": 75
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 3 ?",
+        "opcoes": [
+            34,
+            40,
+            46,
+            36
+        ],
+        "resposta": 36
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 13 ?",
+        "opcoes": [
+            245,
+            251,
+            247,
+            253
+        ],
+        "resposta": 247
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 19 ?",
+        "opcoes": [
+            309,
+            302,
+            304,
+            312
+        ],
+        "resposta": 304
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 4 × 5 ?",
+        "opcoes": [
+            23,
+            15,
+            26,
+            20
+        ],
+        "resposta": 20
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 7 × 6 ?",
+        "opcoes": [
+            41,
+            42,
+            47,
+            51
+        ],
+        "resposta": 42
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 20 ?",
+        "opcoes": [
+            206,
+            196,
+            200,
+            202
+        ],
+        "resposta": 200
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 1 ?",
+        "opcoes": [
+            17,
+            8,
+            7,
+            10
+        ],
+        "resposta": 8
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 14 ?",
+        "opcoes": [
+            251,
+            252,
+            253,
+            260
+        ],
+        "resposta": 252
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 9 ?",
+        "opcoes": [
+            189,
+            180,
+            183,
+            176
+        ],
+        "resposta": 180
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 14 ?",
+        "opcoes": [
+            93,
+            87,
+            81,
+            84
+        ],
+        "resposta": 84
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 13 × 14 ?",
+        "opcoes": [
+            184,
+            189,
+            180,
+            182
+        ],
+        "resposta": 182
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 14 ?",
+        "opcoes": [
+            90,
+            80,
+            84,
+            87
+        ],
+        "resposta": 84
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 4 × 18 ?",
+        "opcoes": [
+            68,
+            78,
+            75,
+            72
+        ],
+        "resposta": 72
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 2 × 20 ?",
+        "opcoes": [
+            47,
+            36,
+            40,
+            41
+        ],
+        "resposta": 40
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 19 ?",
+        "opcoes": [
+            365,
+            371,
+            361,
+            356
+        ],
+        "resposta": 361
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 2 × 3 ?",
+        "opcoes": [
+            6,
+            8,
+            5,
+            13
+        ],
+        "resposta": 6
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 10 ?",
+        "opcoes": [
+            196,
+            200,
+            207,
+            205
+        ],
+        "resposta": 200
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 2 ?",
+        "opcoes": [
+            20,
+            33,
+            27,
+            24
+        ],
+        "resposta": 24
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 8 ?",
+        "opcoes": [
+            80,
+            87,
+            78,
+            82
+        ],
+        "resposta": 80
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 15 ?",
+        "opcoes": [
+            155,
+            156,
+            147,
+            150
+        ],
+        "resposta": 150
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 2 ?",
+        "opcoes": [
+            31,
+            28,
+            37,
+            30
+        ],
+        "resposta": 30
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 15 ?",
+        "opcoes": [
+            266,
+            278,
+            270,
+            274
+        ],
+        "resposta": 270
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 10 ?",
+        "opcoes": [
+            163,
+            168,
+            160,
+            158
+        ],
+        "resposta": 160
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 7 ?",
+        "opcoes": [
+            82,
+            90,
+            84,
+            88
+        ],
+        "resposta": 84
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 18 ?",
+        "opcoes": [
+            182,
+            177,
+            180,
+            188
+        ],
+        "resposta": 180
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 13 × 8 ?",
+        "opcoes": [
+            102,
+            105,
+            113,
+            104
+        ],
+        "resposta": 104
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 5 × 9 ?",
+        "opcoes": [
+            46,
+            53,
+            45,
+            44
+        ],
+        "resposta": 45
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 13 ?",
+        "opcoes": [
+            243,
+            257,
+            249,
+            247
+        ],
+        "resposta": 247
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 12 ?",
+        "opcoes": [
+            149,
+            154,
+            144,
+            140
+        ],
+        "resposta": 144
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 3 ?",
+        "opcoes": [
+            19,
+            27,
+            24,
+            31
+        ],
+        "resposta": 24
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 4 ?",
+        "opcoes": [
+            59,
+            68,
+            74,
+            64
+        ],
+        "resposta": 64
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 10 ?",
+        "opcoes": [
+            168,
+            179,
+            170,
+            175
+        ],
+        "resposta": 170
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 17 ?",
+        "opcoes": [
+            325,
+            332,
+            323,
+            321
+        ],
+        "resposta": 323
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 1 × 16 ?",
+        "opcoes": [
+            21,
+            16,
+            11,
+            26
+        ],
+        "resposta": 16
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 7 × 1 ?",
+        "opcoes": [
+            7,
+            6,
+            17,
+            10
+        ],
+        "resposta": 7
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "opcoes": [
+            "1500",
+            "1492",
+            "1822",
+            "1889"
+        ],
+        "resposta": "1500"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": [
+            "Pedro Álvares Cabral",
+            "Dom Pedro",
+            "Tiradentes",
+            "Getúlio Vargas"
+        ],
+        "resposta": "Pedro Álvares Cabral"
+    },
+    {
+        "materia": "História",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "opcoes": [
+            "Dom Pedro I",
+            "Dom Pedro II",
+            "Cabral",
+            "Tiradentes"
+        ],
+        "resposta": "Dom Pedro I"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior país da América do Sul?",
+        "opcoes": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Peru"
+        ],
+        "resposta": "Brasil"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            "Pacífico",
+            "Atlântico",
+            "Índico",
+            "Ártico"
+        ],
+        "resposta": "Pacífico"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Geografia",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é a capital da França?",
+        "opcoes": [
+            "Paris",
+            "Roma",
+            "Madri",
+            "Lisboa"
+        ],
+        "resposta": "Paris"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o feminino de ator?",
+        "opcoes": [
+            "atriz",
+            "atora",
+            "atorisa",
+            "atrosa"
+        ],
+        "resposta": "atriz"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual é o plural de pão?",
+        "opcoes": [
+            "pães",
+            "paes",
+            "pãos",
+            "pãeses"
+        ],
+        "resposta": "pães"
+    },
+    {
+        "materia": "Português",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Qual palavra é um verbo?",
+        "opcoes": [
+            "correr",
+            "azul",
+            "mesa",
+            "rápido"
+        ],
+        "resposta": "correr"
     }
 ]
