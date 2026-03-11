@@ -1,49 +1,11 @@
-import json
-import random
-from fastapi import FastAPI
+from fastapi.responses import FileResponse
+from reportlab.lib.pagesizes import letter
+from reportlab.pdfgen import canvas
+import tempfile
 
-app = FastAPI()
 
-# carregar perguntas
-with open("banco_perguntas.json", "r", encoding="utf-8") as f:
-    perguntas = json.load(f)
-
-# carregar usuarios
-try:
-    with open("usuarios.json", "r", encoding="utf-8") as f:
-        usuarios = json.load(f)
-except:
-    usuarios = []
-
-# registrar professor
-@app.post("/registrar")
-def registrar(usuario: str, senha: str):
-
-    novo = {
-        "usuario": usuario,
-        "senha": senha
-    }
-
-    usuarios.append(novo)
-
-    with open("usuarios.json", "w", encoding="utf-8") as f:
-        json.dump(usuarios, f, indent=4)
-
-    return {"mensagem": "Usuário criado com sucesso"}
-
-# login
-@app.post("/login")
-def login(usuario: str, senha: str):
-
-    for u in usuarios:
-        if u["usuario"] == usuario and u["senha"] == senha:
-            return {"mensagem": "Login realizado"}
-
-    return {"erro": "Usuário ou senha incorretos"}
-
-# gerar prova
-@app.get("/gerar_prova")
-def gerar_prova(materia: str, quantidade: int):
+@app.get("/prova_pdf")
+def gerar_pdf(materia: str, quantidade: int):
 
     filtradas = []
 
@@ -55,7 +17,27 @@ def gerar_prova(materia: str, quantidade: int):
 
     prova = random.sample(filtradas, quantidade)
 
-    return {
-        "materia": materia,
-        "questoes": prova
-    }
+    arquivo = tempfile.NamedTemporaryFile(delete=False, suffix=".pdf")
+
+    pdf = canvas.Canvas(arquivo.name, pagesize=letter)
+
+    y = 750
+
+    pdf.drawString(100, y, f"Prova de {materia}")
+
+    y -= 40
+
+    for i, p in enumerate(prova, 1):
+
+        pdf.drawString(100, y, f"{i}. {p['pergunta']}")
+        y -= 20
+
+        for op in p["opcoes"]:
+            pdf.drawString(120, y, f"- {op}")
+            y -= 20
+
+        y -= 10
+
+    pdf.save()
+
+    return FileResponse(arquivo.name, filename="prova.pdf")

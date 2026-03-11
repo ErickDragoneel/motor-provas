@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title>Gerador de Provas</title>
+
+<style>
+
+body{
+font-family: Arial;
+background:#f4f4f4;
+padding:40px;
+}
+
+.container{
+background:white;
+padding:30px;
+border-radius:10px;
+max-width:600px;
+margin:auto;
+}
+
+button{
+padding:10px 20px;
+background:#2c7be5;
+color:white;
+border:none;
+border-radius:5px;
+cursor:pointer;
+}
+
+.questao{
+margin-top:20px;
+padding:10px;
+border-bottom:1px solid #ddd;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h2>Gerador de Provas</h2>
+
+<label>Matéria</label><br>
+<input id="materia" value="Matemática"><br><br>
+
+<label>Quantidade de questões</label><br>
+<input id="quantidade" value="5"><br><br>
+
+<button onclick="gerar()">Gerar Prova</button>
+
+<div id="prova"></div>
+
+</div>
+
+<script>
+
+async function gerar(){
+
+let materia = document.getElementById("materia").value
+let quantidade = document.getElementById("quantidade").value
+
+let url = `https://motor-provas.onrender.com/gerar_prova?materia=${materia}&quantidade=${quantidade}`
+
+let resposta = await fetch(url)
+
+let dados = await resposta.json()
+
+let div = document.getElementById("prova")
+
+div.innerHTML = ""
+
+dados.questoes.forEach((q,i)=>{
+
+let html = `<div class="questao">
+<h3>${i+1}. ${q.pergunta}</h3>
+`
+
+q.opcoes.forEach(op=>{
+html += `<p>• ${op}</p>`
+})
+
+html += "</div>"
+
+div.innerHTML += html
+
+})
+
+}
+
+</script>
+
+</body>
+</html>
