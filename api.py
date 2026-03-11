@@ -11,7 +11,7 @@ with open("banco_perguntas.json", "r", encoding="utf-8") as f:
 
 
 @app.get("/gerar_prova")
-def gerar_prova(materia: str, nivel: str, dificuldade: str, quantidade: int):
+def gerar_prova(materia: str, nivel: str, tema: str, dificuldade: str, quantidade: int):
 
     filtradas = []
 
@@ -19,6 +19,7 @@ def gerar_prova(materia: str, nivel: str, dificuldade: str, quantidade: int):
         if (
             p["materia"].lower() == materia.lower()
             and p["nivel"].lower() == nivel.lower()
+            and p["tema"].lower() == tema.lower()
             and p["dificuldade"].lower() == dificuldade.lower()
         ):
             filtradas.append(p)
@@ -30,15 +31,16 @@ def gerar_prova(materia: str, nivel: str, dificuldade: str, quantidade: int):
     return {
         "materia": materia,
         "nivel": nivel,
+        "tema": tema,
         "dificuldade": dificuldade,
         "questoes": prova
     }
 
 
 @app.get("/baixar_pdf")
-def baixar_pdf(materia: str, nivel: str, dificuldade: str, quantidade: int):
+def baixar_pdf(materia: str, nivel: str, tema: str, dificuldade: str, quantidade: int):
 
-    subprocess.run(["python", "gerar_pdf.py", materia, nivel, dificuldade, str(quantidade)])
+    subprocess.run(["python", "gerar_pdf.py", materia, nivel, tema, dificuldade, str(quantidade)])
 
     return FileResponse(
         "prova.pdf",

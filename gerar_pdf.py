@@ -6,8 +6,9 @@ from reportlab.pdfgen import canvas
 
 materia = sys.argv[1]
 nivel = sys.argv[2]
-dificuldade = sys.argv[3]
-quantidade = int(sys.argv[4])
+tema = sys.argv[3]
+dificuldade = sys.argv[4]
+quantidade = int(sys.argv[5])
 
 with open("banco_perguntas.json", "r", encoding="utf-8") as f:
     perguntas = json.load(f)
@@ -18,6 +19,7 @@ for p in perguntas:
     if (
         p["materia"].lower() == materia.lower()
         and p["nivel"].lower() == nivel.lower()
+        and p["tema"].lower() == tema.lower()
         and p["dificuldade"].lower() == dificuldade.lower()
     ):
         filtradas.append(p)
@@ -40,11 +42,15 @@ pdf.drawString(100, y, f"Nível: {nivel}")
 
 y -= 20
 
+pdf.drawString(100, y, f"Tema: {tema}")
+
+y -= 20
+
 pdf.drawString(100, y, f"Dificuldade: {dificuldade}")
 
 y -= 40
 
-pdf.drawString(100, y, "Aluno: __________________________________")
+pdf.drawString(100, y, "Aluno: ______________________________")
 
 y -= 30
 
@@ -69,5 +75,3 @@ for i, q in enumerate(prova, 1):
         y = 750
 
 pdf.save()
-
-print("PDF gerado com sucesso")
