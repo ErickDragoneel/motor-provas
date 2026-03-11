@@ -1,11 +1,57 @@
+from fastapi import FastAPI
 from fastapi.responses import FileResponse
-from reportlab.lib.pagesizes import letter
-from reportlab.pdfgen import canvas
-import tempfile
+import json
+import random
+import subprocess
 
+app = FastAPI()
 
-@app.get("/prova_pdf")
-def gerar_pdf(materia: str, quantidade: int):
+# carregar banco de perguntas
+with open("banco_perguntas.json", "r", encoding="utf-8") as f:
+    perguntas = json.load(f)
+
+# carregar usuarios
+try:
+    with open("usuarios.json", "r", encoding="utf-8") as f:
+        usuarios = json.load(f)
+except:
+    usuarios = []
+
+# ---------------------------
+# REGISTRAR USUARIO
+# ---------------------------
+@app.post("/registrar")
+def registrar(usuario: str, senha: str):
+
+    novo = {
+        "usuario": usuario,
+        "senha": senha
+    }
+
+    usuarios.append(novo)
+
+    with open("usuarios.json", "w", encoding="utf-8") as f:
+        json.dump(usuarios, f, indent=4)
+
+    return {"mensagem": "Usuário criado com sucesso"}
+
+# ---------------------------
+# LOGIN
+# ---------------------------
+@app.post("/login")
+def login(usuario: str, senha: str):
+
+    for u in usuarios:
+        if u["usuario"] == usuario and u["senha"] == senha:
+            return {"mensagem": "Login realizado"}
+
+    return {"erro": "Usuário ou senha incorretos"}
+
+# ---------------------------
+# GERAR PROVA
+# ---------------------------
+@app.get("/gerar_prova")
+def gerar_prova(materia: str, quantidade: int):
 
     filtradas = []
 
@@ -17,27 +63,48 @@ def gerar_pdf(materia: str, quantidade: int):
 
     prova = random.sample(filtradas, quantidade)
 
-    arquivo = tempfile.NamedTemporaryFile(delete=False, suffix=".pdf")
+    return {
+        "materia": materia,
+        "questoes": prova
+    }
 
-    pdf = canvas.Canvas(arquivo.name, pagesize=letter)
+# ---------------------------
+# BAIXAR PDF
+# ---------------------------
+@app.get("/baixar_pdf")
+def baixar_pdf(materia: str, quantidade: int):
 
-    y = 750
+    subprocess.run(["python", "gerar_pdf.py", materia, str(quantidade)])
 
-    pdf.drawString(100, y, f"Prova de {materia}")
+    return FileResponse(
+        "prova.pdf",
+        media_type="application/pdf",
+        filename="prova.pdf"
+    )
 
-    y -= 40
+# ---------------------------
+# CORRIGIR PROVA
+# ---------------------------
+@app.post("/corrigir_prova")
+def corrigir_prova(respostas: list):
 
-    for i, p in enumerate(prova, 1):
+    acertos = 0
 
-        pdf.drawString(100, y, f"{i}. {p['pergunta']}")
-        y -= 20
+    for r in respostas:
 
-        for op in p["opcoes"]:
-            pdf.drawString(120, y, f"- {op}")
-            y -= 20
+        for p in perguntas:
 
-        y -= 10
+            if p["pergunta"] == r["pergunta"]:
 
-    pdf.save()
+                if p["resposta"] == r["resposta"]:
+                    acertos += 1
 
-    return FileResponse(arquivo.name, filename="prova.pdf")
+    total = len(respostas)
+
+    nota = (acertos / total) * 10 if total > 0 else 0
+
+    return {
+        "acertos": acertos,
+        "total": total,
+        "nota": round(nota, 2)
+    }
