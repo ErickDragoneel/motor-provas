@@ -6048,5 +6048,2605 @@
             "Ártico"
         ],
         "resposta": "Pacífico"
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 9 ?",
+        "opcoes": [
+            139,
+            145,
+            144,
+            153
+        ],
+        "resposta": 144
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 5 ?",
+        "opcoes": [
+            58,
+            65,
+            67,
+            60
+        ],
+        "resposta": 60
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 7 ?",
+        "opcoes": [
+            58,
+            56,
+            62,
+            52
+        ],
+        "resposta": 56
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 1 × 19 ?",
+        "opcoes": [
+            19,
+            28,
+            14,
+            22
+        ],
+        "resposta": 19
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 14 ?",
+        "opcoes": [
+            177,
+            163,
+            168,
+            172
+        ],
+        "resposta": 168
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 11 ?",
+        "opcoes": [
+            94,
+            99,
+            109,
+            104
+        ],
+        "resposta": 99
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 2 × 3 ?",
+        "opcoes": [
+            2,
+            6,
+            9,
+            14
+        ],
+        "resposta": 6
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 3 ?",
+        "opcoes": [
+            65,
+            60,
+            58,
+            69
+        ],
+        "resposta": 60
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 2 × 2 ?",
+        "opcoes": [
+            1,
+            9,
+            12,
+            4
+        ],
+        "resposta": 4
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 9 ?",
+        "opcoes": [
+            94,
+            106,
+            103,
+            99
+        ],
+        "resposta": 99
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 9 ?",
+        "opcoes": [
+            49,
+            64,
+            54,
+            55
+        ],
+        "resposta": 54
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 18 ?",
+        "opcoes": [
+            224,
+            215,
+            221,
+            216
+        ],
+        "resposta": 216
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 19 ?",
+        "opcoes": [
+            380,
+            378,
+            383,
+            390
+        ],
+        "resposta": 380
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 3 ?",
+        "opcoes": [
+            53,
+            40,
+            48,
+            45
+        ],
+        "resposta": 45
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 11 ?",
+        "opcoes": [
+            205,
+            212,
+            215,
+            209
+        ],
+        "resposta": 209
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 4 × 6 ?",
+        "opcoes": [
+            24,
+            32,
+            21,
+            26
+        ],
+        "resposta": 24
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 2 ?",
+        "opcoes": [
+            16,
+            28,
+            23,
+            18
+        ],
+        "resposta": 18
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 18 ?",
+        "opcoes": [
+            321,
+            327,
+            333,
+            324
+        ],
+        "resposta": 324
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 12 ?",
+        "opcoes": [
+            116,
+            120,
+            125,
+            127
+        ],
+        "resposta": 120
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 6 ?",
+        "opcoes": [
+            99,
+            85,
+            90,
+            95
+        ],
+        "resposta": 90
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 14 × 1 ?",
+        "opcoes": [
+            24,
+            12,
+            18,
+            14
+        ],
+        "resposta": 14
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 3 × 4 ?",
+        "opcoes": [
+            13,
+            12,
+            8,
+            18
+        ],
+        "resposta": 12
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 2 ?",
+        "opcoes": [
+            20,
+            12,
+            10,
+            13
+        ],
+        "resposta": 12
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 7 × 4 ?",
+        "opcoes": [
+            23,
+            28,
+            36,
+            33
+        ],
+        "resposta": 28
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 20 ?",
+        "opcoes": [
+            361,
+            360,
+            357,
+            367
+        ],
+        "resposta": 360
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 14 ?",
+        "opcoes": [
+            154,
+            150,
+            161,
+            155
+        ],
+        "resposta": 154
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 2 × 11 ?",
+        "opcoes": [
+            18,
+            28,
+            22,
+            23
+        ],
+        "resposta": 22
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 14 ?",
+        "opcoes": [
+            215,
+            206,
+            210,
+            218
+        ],
+        "resposta": 210
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 16 ?",
+        "opcoes": [
+            245,
+            240,
+            250,
+            238
+        ],
+        "resposta": 240
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 7 × 2 ?",
+        "opcoes": [
+            14,
+            19,
+            13,
+            20
+        ],
+        "resposta": 14
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 6 ?",
+        "opcoes": [
+            56,
+            46,
+            48,
+            53
+        ],
+        "resposta": 48
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 9 ?",
+        "opcoes": [
+            171,
+            175,
+            179,
+            170
+        ],
+        "resposta": 171
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 20 ?",
+        "opcoes": [
+            320,
+            326,
+            317,
+            321
+        ],
+        "resposta": 320
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 2 × 1 ?",
+        "opcoes": [
+            -1,
+            10,
+            7,
+            2
+        ],
+        "resposta": 2
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 20 ?",
+        "opcoes": [
+            295,
+            300,
+            310,
+            302
+        ],
+        "resposta": 300
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 1 × 7 ?",
+        "opcoes": [
+            12,
+            7,
+            3,
+            16
+        ],
+        "resposta": 7
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 1 × 5 ?",
+        "opcoes": [
+            5,
+            3,
+            12,
+            7
+        ],
+        "resposta": 5
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 2 × 15 ?",
+        "opcoes": [
+            30,
+            32,
+            38,
+            27
+        ],
+        "resposta": 30
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 8 ?",
+        "opcoes": [
+            74,
+            61,
+            65,
+            64
+        ],
+        "resposta": 64
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 10 ?",
+        "opcoes": [
+            170,
+            168,
+            172,
+            178
+        ],
+        "resposta": 170
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 6 ?",
+        "opcoes": [
+            52,
+            58,
+            48,
+            43
+        ],
+        "resposta": 48
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 10 ?",
+        "opcoes": [
+            199,
+            201,
+            210,
+            200
+        ],
+        "resposta": 200
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 6 ?",
+        "opcoes": [
+            72,
+            75,
+            80,
+            69
+        ],
+        "resposta": 72
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 13 × 12 ?",
+        "opcoes": [
+            156,
+            166,
+            157,
+            155
+        ],
+        "resposta": 156
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 12 ?",
+        "opcoes": [
+            128,
+            123,
+            116,
+            120
+        ],
+        "resposta": 120
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 5 × 16 ?",
+        "opcoes": [
+            79,
+            82,
+            86,
+            80
+        ],
+        "resposta": 80
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 7 ?",
+        "opcoes": [
+            142,
+            134,
+            133,
+            132
+        ],
+        "resposta": 133
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 18 ?",
+        "opcoes": [
+            288,
+            291,
+            287,
+            297
+        ],
+        "resposta": 288
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 9 ?",
+        "opcoes": [
+            162,
+            168,
+            158,
+            167
+        ],
+        "resposta": 162
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 12 ?",
+        "opcoes": [
+            142,
+            150,
+            148,
+            144
+        ],
+        "resposta": 144
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 7 ?",
+        "opcoes": [
+            76,
+            70,
+            65,
+            73
+        ],
+        "resposta": 70
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 3 × 7 ?",
+        "opcoes": [
+            21,
+            19,
+            30,
+            26
+        ],
+        "resposta": 21
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 5 × 6 ?",
+        "opcoes": [
+            28,
+            30,
+            37,
+            33
+        ],
+        "resposta": 30
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 1 × 1 ?",
+        "opcoes": [
+            3,
+            -3,
+            1,
+            10
+        ],
+        "resposta": 1
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 5 × 2 ?",
+        "opcoes": [
+            14,
+            19,
+            5,
+            10
+        ],
+        "resposta": 10
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 14 ?",
+        "opcoes": [
+            274,
+            263,
+            266,
+            271
+        ],
+        "resposta": 266
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 11 ?",
+        "opcoes": [
+            187,
+            183,
+            188,
+            195
+        ],
+        "resposta": 187
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 6 ?",
+        "opcoes": [
+            67,
+            62,
+            59,
+            60
+        ],
+        "resposta": 60
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 16 ?",
+        "opcoes": [
+            102,
+            96,
+            91,
+            99
+        ],
+        "resposta": 96
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 12 ?",
+        "opcoes": [
+            141,
+            144,
+            145,
+            153
+        ],
+        "resposta": 144
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 14 × 14 ?",
+        "opcoes": [
+            192,
+            196,
+            206,
+            200
+        ],
+        "resposta": 196
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 2 ?",
+        "opcoes": [
+            19,
+            18,
+            15,
+            28
+        ],
+        "resposta": 18
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 5 × 5 ?",
+        "opcoes": [
+            30,
+            25,
+            20,
+            33
+        ],
+        "resposta": 25
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 6 ?",
+        "opcoes": [
+            48,
+            53,
+            46,
+            56
+        ],
+        "resposta": 48
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 10 ?",
+        "opcoes": [
+            90,
+            88,
+            93,
+            100
+        ],
+        "resposta": 90
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 13 ?",
+        "opcoes": [
+            221,
+            223,
+            228,
+            217
+        ],
+        "resposta": 221
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 1 ?",
+        "opcoes": [
+            15,
+            11,
+            10,
+            21
+        ],
+        "resposta": 11
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 4 ?",
+        "opcoes": [
+            24,
+            23,
+            31,
+            26
+        ],
+        "resposta": 24
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 17 ?",
+        "opcoes": [
+            200,
+            210,
+            204,
+            209
+        ],
+        "resposta": 204
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 15 ?",
+        "opcoes": [
+            97,
+            90,
+            88,
+            92
+        ],
+        "resposta": 90
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 3 × 4 ?",
+        "opcoes": [
+            12,
+            9,
+            16,
+            19
+        ],
+        "resposta": 12
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 7 × 7 ?",
+        "opcoes": [
+            59,
+            47,
+            49,
+            53
+        ],
+        "resposta": 49
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 11 ?",
+        "opcoes": [
+            105,
+            103,
+            99,
+            98
+        ],
+        "resposta": 99
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 8 ?",
+        "opcoes": [
+            141,
+            145,
+            144,
+            153
+        ],
+        "resposta": 144
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 5 × 2 ?",
+        "opcoes": [
+            14,
+            9,
+            10,
+            17
+        ],
+        "resposta": 10
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 17 ?",
+        "opcoes": [
+            256,
+            255,
+            254,
+            265
+        ],
+        "resposta": 255
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 5 ?",
+        "opcoes": [
+            55,
+            60,
+            50,
+            65
+        ],
+        "resposta": 55
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 4 ?",
+        "opcoes": [
+            56,
+            45,
+            48,
+            49
+        ],
+        "resposta": 48
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 5 ?",
+        "opcoes": [
+            46,
+            50,
+            53,
+            59
+        ],
+        "resposta": 50
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 4 × 14 ?",
+        "opcoes": [
+            54,
+            66,
+            56,
+            57
+        ],
+        "resposta": 56
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 4 × 20 ?",
+        "opcoes": [
+            79,
+            84,
+            87,
+            80
+        ],
+        "resposta": 80
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 1 ?",
+        "opcoes": [
+            16,
+            17,
+            11,
+            25
+        ],
+        "resposta": 16
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 4 ?",
+        "opcoes": [
+            53,
+            55,
+            48,
+            44
+        ],
+        "resposta": 48
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 19 ?",
+        "opcoes": [
+            147,
+            152,
+            161,
+            153
+        ],
+        "resposta": 152
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 15 ?",
+        "opcoes": [
+            300,
+            301,
+            309,
+            296
+        ],
+        "resposta": 300
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 4 ?",
+        "opcoes": [
+            31,
+            24,
+            23,
+            25
+        ],
+        "resposta": 24
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 17 ?",
+        "opcoes": [
+            191,
+            197,
+            187,
+            184
+        ],
+        "resposta": 187
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 5 ?",
+        "opcoes": [
+            57,
+            64,
+            55,
+            54
+        ],
+        "resposta": 55
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 7 ?",
+        "opcoes": [
+            77,
+            74,
+            79,
+            84
+        ],
+        "resposta": 77
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 13 ?",
+        "opcoes": [
+            195,
+            192,
+            205,
+            199
+        ],
+        "resposta": 195
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 16 ?",
+        "opcoes": [
+            186,
+            177,
+            175,
+            176
+        ],
+        "resposta": 176
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 13 ?",
+        "opcoes": [
+            156,
+            165,
+            153,
+            158
+        ],
+        "resposta": 156
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 13 × 6 ?",
+        "opcoes": [
+            78,
+            74,
+            86,
+            79
+        ],
+        "resposta": 78
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 7 ?",
+        "opcoes": [
+            112,
+            114,
+            122,
+            108
+        ],
+        "resposta": 112
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 19 ?",
+        "opcoes": [
+            360,
+            369,
+            361,
+            366
+        ],
+        "resposta": 361
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 7 × 5 ?",
+        "opcoes": [
+            35,
+            41,
+            38,
+            31
+        ],
+        "resposta": 35
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 7 ?",
+        "opcoes": [
+            117,
+            128,
+            122,
+            119
+        ],
+        "resposta": 119
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 1 ?",
+        "opcoes": [
+            18,
+            9,
+            5,
+            12
+        ],
+        "resposta": 9
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 3 × 20 ?",
+        "opcoes": [
+            70,
+            59,
+            61,
+            60
+        ],
+        "resposta": 60
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 2 ?",
+        "opcoes": [
+            16,
+            15,
+            26,
+            17
+        ],
+        "resposta": 16
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 2 × 5 ?",
+        "opcoes": [
+            6,
+            12,
+            10,
+            18
+        ],
+        "resposta": 10
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 3 ?",
+        "opcoes": [
+            34,
+            32,
+            27,
+            22
+        ],
+        "resposta": 27
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 4 × 6 ?",
+        "opcoes": [
+            25,
+            22,
+            24,
+            32
+        ],
+        "resposta": 24
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 4 ?",
+        "opcoes": [
+            33,
+            42,
+            36,
+            37
+        ],
+        "resposta": 36
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 1 ?",
+        "opcoes": [
+            12,
+            18,
+            23,
+            17
+        ],
+        "resposta": 17
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 2 ?",
+        "opcoes": [
+            17,
+            26,
+            18,
+            22
+        ],
+        "resposta": 18
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 5 ?",
+        "opcoes": [
+            100,
+            96,
+            106,
+            104
+        ],
+        "resposta": 100
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 14 × 8 ?",
+        "opcoes": [
+            119,
+            113,
+            110,
+            112
+        ],
+        "resposta": 112
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 8 ?",
+        "opcoes": [
+            162,
+            153,
+            152,
+            148
+        ],
+        "resposta": 152
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 20 ?",
+        "opcoes": [
+            121,
+            120,
+            118,
+            128
+        ],
+        "resposta": 120
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 2 × 16 ?",
+        "opcoes": [
+            32,
+            40,
+            36,
+            27
+        ],
+        "resposta": 32
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 17 ?",
+        "opcoes": [
+            350,
+            343,
+            337,
+            340
+        ],
+        "resposta": 340
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 2 ?",
+        "opcoes": [
+            37,
+            48,
+            42,
+            40
+        ],
+        "resposta": 40
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 18 ?",
+        "opcoes": [
+            350,
+            342,
+            343,
+            340
+        ],
+        "resposta": 342
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 14 ?",
+        "opcoes": [
+            276,
+            266,
+            263,
+            267
+        ],
+        "resposta": 266
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 7 ?",
+        "opcoes": [
+            115,
+            104,
+            109,
+            105
+        ],
+        "resposta": 105
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 14 ?",
+        "opcoes": [
+            153,
+            162,
+            154,
+            159
+        ],
+        "resposta": 154
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 16 ?",
+        "opcoes": [
+            165,
+            160,
+            167,
+            157
+        ],
+        "resposta": 160
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 11 ?",
+        "opcoes": [
+            66,
+            68,
+            76,
+            63
+        ],
+        "resposta": 66
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 13 × 6 ?",
+        "opcoes": [
+            80,
+            78,
+            84,
+            75
+        ],
+        "resposta": 78
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 15 ?",
+        "opcoes": [
+            163,
+            167,
+            171,
+            165
+        ],
+        "resposta": 165
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 9 ?",
+        "opcoes": [
+            100,
+            95,
+            86,
+            90
+        ],
+        "resposta": 90
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 9 ?",
+        "opcoes": [
+            52,
+            63,
+            57,
+            54
+        ],
+        "resposta": 54
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 9 ?",
+        "opcoes": [
+            148,
+            156,
+            153,
+            160
+        ],
+        "resposta": 153
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 20 ?",
+        "opcoes": [
+            390,
+            382,
+            380,
+            378
+        ],
+        "resposta": 380
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 17 ?",
+        "opcoes": [
+            160,
+            153,
+            150,
+            156
+        ],
+        "resposta": 153
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 3 × 15 ?",
+        "opcoes": [
+            45,
+            53,
+            48,
+            41
+        ],
+        "resposta": 45
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 20 ?",
+        "opcoes": [
+            170,
+            165,
+            160,
+            157
+        ],
+        "resposta": 160
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 4 ?",
+        "opcoes": [
+            24,
+            25,
+            20,
+            33
+        ],
+        "resposta": 24
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 13 ?",
+        "opcoes": [
+            245,
+            250,
+            247,
+            256
+        ],
+        "resposta": 247
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 5 × 16 ?",
+        "opcoes": [
+            80,
+            85,
+            88,
+            75
+        ],
+        "resposta": 80
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 2 ?",
+        "opcoes": [
+            49,
+            35,
+            42,
+            40
+        ],
+        "resposta": 40
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 2 ?",
+        "opcoes": [
+            31,
+            27,
+            24,
+            20
+        ],
+        "resposta": 24
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 14 ?",
+        "opcoes": [
+            223,
+            229,
+            224,
+            230
+        ],
+        "resposta": 224
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 8 ?",
+        "opcoes": [
+            53,
+            54,
+            48,
+            44
+        ],
+        "resposta": 48
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 19 ?",
+        "opcoes": [
+            321,
+            323,
+            327,
+            333
+        ],
+        "resposta": 323
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 4 × 15 ?",
+        "opcoes": [
+            68,
+            60,
+            63,
+            59
+        ],
+        "resposta": 60
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 13 × 16 ?",
+        "opcoes": [
+            203,
+            215,
+            209,
+            208
+        ],
+        "resposta": 208
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 13 × 13 ?",
+        "opcoes": [
+            169,
+            172,
+            164,
+            175
+        ],
+        "resposta": 169
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 4 × 5 ?",
+        "opcoes": [
+            20,
+            19,
+            24,
+            26
+        ],
+        "resposta": 20
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 7 × 4 ?",
+        "opcoes": [
+            28,
+            30,
+            23,
+            34
+        ],
+        "resposta": 28
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 2 ?",
+        "opcoes": [
+            16,
+            12,
+            20,
+            9
+        ],
+        "resposta": 12
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 4 × 7 ?",
+        "opcoes": [
+            27,
+            28,
+            33,
+            36
+        ],
+        "resposta": 28
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 9 ?",
+        "opcoes": [
+            81,
+            90,
+            82,
+            76
+        ],
+        "resposta": 81
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 1 × 1 ?",
+        "opcoes": [
+            -1,
+            1,
+            3,
+            11
+        ],
+        "resposta": 1
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 1 ?",
+        "opcoes": [
+            26,
+            23,
+            19,
+            15
+        ],
+        "resposta": 19
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 17 ?",
+        "opcoes": [
+            190,
+            194,
+            187,
+            185
+        ],
+        "resposta": 187
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 7 ?",
+        "opcoes": [
+            137,
+            146,
+            144,
+            140
+        ],
+        "resposta": 140
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 7 × 4 ?",
+        "opcoes": [
+            28,
+            25,
+            30,
+            36
+        ],
+        "resposta": 28
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 10 ?",
+        "opcoes": [
+            64,
+            68,
+            60,
+            58
+        ],
+        "resposta": 60
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 14 × 18 ?",
+        "opcoes": [
+            256,
+            248,
+            252,
+            261
+        ],
+        "resposta": 252
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 12 ?",
+        "opcoes": [
+            240,
+            249,
+            236,
+            242
+        ],
+        "resposta": 240
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 2 × 15 ?",
+        "opcoes": [
+            30,
+            35,
+            29,
+            38
+        ],
+        "resposta": 30
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 5 ?",
+        "opcoes": [
+            93,
+            96,
+            95,
+            101
+        ],
+        "resposta": 95
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 16 ?",
+        "opcoes": [
+            180,
+            176,
+            172,
+            183
+        ],
+        "resposta": 176
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 7 ?",
+        "opcoes": [
+            75,
+            80,
+            77,
+            87
+        ],
+        "resposta": 77
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 7 ?",
+        "opcoes": [
+            103,
+            115,
+            105,
+            107
+        ],
+        "resposta": 105
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 4 × 15 ?",
+        "opcoes": [
+            66,
+            57,
+            60,
+            61
+        ],
+        "resposta": 60
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 20 ?",
+        "opcoes": [
+            243,
+            240,
+            236,
+            250
+        ],
+        "resposta": 240
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 18 × 5 ?",
+        "opcoes": [
+            89,
+            92,
+            90,
+            99
+        ],
+        "resposta": 90
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 8 × 1 ?",
+        "opcoes": [
+            16,
+            11,
+            8,
+            7
+        ],
+        "resposta": 8
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 20 ?",
+        "opcoes": [
+            320,
+            324,
+            316,
+            326
+        ],
+        "resposta": 320
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 2 × 7 ?",
+        "opcoes": [
+            13,
+            21,
+            14,
+            15
+        ],
+        "resposta": 14
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 7 × 20 ?",
+        "opcoes": [
+            144,
+            150,
+            136,
+            140
+        ],
+        "resposta": 140
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 4 × 14 ?",
+        "opcoes": [
+            58,
+            56,
+            65,
+            53
+        ],
+        "resposta": 56
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 4 ?",
+        "opcoes": [
+            54,
+            45,
+            44,
+            43
+        ],
+        "resposta": 44
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 18 ?",
+        "opcoes": [
+            265,
+            270,
+            279,
+            272
+        ],
+        "resposta": 270
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 11 ?",
+        "opcoes": [
+            194,
+            187,
+            188,
+            184
+        ],
+        "resposta": 187
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 1 × 18 ?",
+        "opcoes": [
+            20,
+            13,
+            25,
+            18
+        ],
+        "resposta": 18
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 2 ?",
+        "opcoes": [
+            8,
+            12,
+            20,
+            13
+        ],
+        "resposta": 12
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 4 ?",
+        "opcoes": [
+            36,
+            40,
+            42,
+            50
+        ],
+        "resposta": 40
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 12 × 16 ?",
+        "opcoes": [
+            192,
+            201,
+            194,
+            187
+        ],
+        "resposta": 192
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 5 × 5 ?",
+        "opcoes": [
+            25,
+            22,
+            30,
+            35
+        ],
+        "resposta": 25
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 13 × 16 ?",
+        "opcoes": [
+            215,
+            208,
+            209,
+            203
+        ],
+        "resposta": 208
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 5 ?",
+        "opcoes": [
+            55,
+            50,
+            58,
+            63
+        ],
+        "resposta": 55
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 19 ?",
+        "opcoes": [
+            208,
+            209,
+            219,
+            211
+        ],
+        "resposta": 209
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 16 ?",
+        "opcoes": [
+            160,
+            170,
+            163,
+            156
+        ],
+        "resposta": 160
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 7 × 14 ?",
+        "opcoes": [
+            96,
+            106,
+            98,
+            100
+        ],
+        "resposta": 98
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 18 ?",
+        "opcoes": [
+            360,
+            363,
+            359,
+            369
+        ],
+        "resposta": 360
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 19 × 11 ?",
+        "opcoes": [
+            218,
+            209,
+            213,
+            205
+        ],
+        "resposta": 209
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 13 ?",
+        "opcoes": [
+            195,
+            204,
+            190,
+            196
+        ],
+        "resposta": 195
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 15 × 18 ?",
+        "opcoes": [
+            270,
+            268,
+            277,
+            271
+        ],
+        "resposta": 270
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 14 × 14 ?",
+        "opcoes": [
+            196,
+            195,
+            206,
+            201
+        ],
+        "resposta": 196
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 10 × 12 ?",
+        "opcoes": [
+            118,
+            121,
+            120,
+            130
+        ],
+        "resposta": 120
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 13 × 18 ?",
+        "opcoes": [
+            241,
+            229,
+            235,
+            234
+        ],
+        "resposta": 234
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 1 × 20 ?",
+        "opcoes": [
+            25,
+            26,
+            19,
+            20
+        ],
+        "resposta": 20
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 14 ?",
+        "opcoes": [
+            238,
+            243,
+            233,
+            247
+        ],
+        "resposta": 238
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 17 ?",
+        "opcoes": [
+            284,
+            289,
+            290,
+            298
+        ],
+        "resposta": 289
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 17 × 20 ?",
+        "opcoes": [
+            340,
+            349,
+            343,
+            338
+        ],
+        "resposta": 340
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 2 × 8 ?",
+        "opcoes": [
+            25,
+            16,
+            14,
+            17
+        ],
+        "resposta": 16
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 9 × 7 ?",
+        "opcoes": [
+            69,
+            63,
+            67,
+            61
+        ],
+        "resposta": 63
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 11 × 1 ?",
+        "opcoes": [
+            9,
+            11,
+            18,
+            13
+        ],
+        "resposta": 11
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 14 × 13 ?",
+        "opcoes": [
+            179,
+            188,
+            182,
+            185
+        ],
+        "resposta": 182
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 14 × 16 ?",
+        "opcoes": [
+            222,
+            224,
+            232,
+            228
+        ],
+        "resposta": 224
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 14 ?",
+        "opcoes": [
+            279,
+            280,
+            288,
+            283
+        ],
+        "resposta": 280
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 6 × 8 ?",
+        "opcoes": [
+            43,
+            53,
+            56,
+            48
+        ],
+        "resposta": 48
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 7 × 9 ?",
+        "opcoes": [
+            63,
+            61,
+            69,
+            66
+        ],
+        "resposta": 63
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 14 ?",
+        "opcoes": [
+            285,
+            278,
+            286,
+            280
+        ],
+        "resposta": 280
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 16 × 14 ?",
+        "opcoes": [
+            224,
+            232,
+            229,
+            222
+        ],
+        "resposta": 224
+    },
+    {
+        "materia": "Matemática",
+        "nivel": "Fundamental 7",
+        "dificuldade": "facil",
+        "pergunta": "Quanto é 20 × 2 ?",
+        "opcoes": [
+            40,
+            35,
+            45,
+            47
+        ],
+        "resposta": 40
     }
 ]
