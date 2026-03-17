@@ -1,45 +1,59 @@
 from fastapi import FastAPI
 from fastapi.responses import FileResponse
-import json
-import random
 import subprocess
+import json
+from openai import OpenAI
 
 app = FastAPI()
 
-with open("banco_perguntas.json", "r", encoding="utf-8") as f:
-    perguntas = json.load(f)
+client = OpenAI(api_key="SUA_CHAsk-proj-gpLZBNtSTCR9bGhBFtBJs_6_aC9q0VBzTdGtwRfevsWvfp21yBfQO_-gwJIFw1kUmJQHpuPyyAT3BlbkFJPecl-s-MJMi5qrM6WwlW--5YPLjYr4i1hcomz4lFeVN7l-5rWo2GiwHmj8tRONml02yTdZ8ccAVE_AQUI")
 
+# ===== GERAR PROVA COM IA =====
 
 @app.get("/gerar_prova")
 def gerar_prova(materia: str, nivel: str, tema: str, dificuldade: str, quantidade: int):
 
-    filtradas = []
+    prompt = f"""
+    Gere {quantidade} questões de {materia} para {nivel},
+    tema {tema}, dificuldade {dificuldade}.
 
-    for p in perguntas:
-        if (
-            p["materia"].lower() == materia.lower()
-            and p["nivel"].lower() == nivel.lower()
-            and p["tema"].lower() == tema.lower()
-            and p["dificuldade"].lower() == dificuldade.lower()
-        ):
-            filtradas.append(p)
+    Formato JSON:
+    [
+      {{
+        "pergunta": "...",
+        "opcoes": ["A","B","C","D"],
+        "resposta": "..."
+      }}
+    ]
+    """
 
-    quantidade = min(quantidade, len(filtradas))
+    resposta = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[{"role": "user", "content": prompt}]
+    )
 
-    prova = random.sample(filtradas, quantidade)
+    texto = resposta.choices[0].message.content
+
+    try:
+        questoes = json.loads(texto)
+    except:
+        return {"erro": "Erro ao gerar perguntas"}
 
     return {
         "materia": materia,
         "nivel": nivel,
         "tema": tema,
         "dificuldade": dificuldade,
-        "questoes": prova
+        "questoes": questoes
     }
 
+
+# ===== BAIXAR PDF =====
 
 @app.get("/baixar_pdf")
 def baixar_pdf(materia: str, nivel: str, tema: str, dificuldade: str, quantidade: int):
 
+    # chama o script com IA
     subprocess.run(["python", "gerar_pdf.py", materia, nivel, tema, dificuldade, str(quantidade)])
 
     return FileResponse(

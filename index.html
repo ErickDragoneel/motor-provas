@@ -2,38 +2,70 @@
 <html>
 
 <head>
-
+<meta charset="UTF-8">
 <title>Gerador de Provas</title>
 
 <style>
 
 body{
-font-family: Arial;
-background:#f4f4f4;
+margin:0;
+font-family:Arial;
+background:#f4f6fa;
+}
+
+.sidebar{
+width:220px;
+background:#2c7be5;
+height:100vh;
+position:fixed;
+color:white;
+padding:20px;
+}
+
+.main{
+margin-left:220px;
 padding:40px;
 }
 
-.container{
+.card{
 background:white;
 padding:30px;
 border-radius:10px;
-max-width:600px;
-margin:auto;
+max-width:700px;
+box-shadow:0 10px 25px rgba(0,0,0,0.1);
+}
+
+input,select{
+width:100%;
+padding:10px;
+margin-bottom:15px;
+border:1px solid #ccc;
+border-radius:5px;
 }
 
 button{
-padding:10px 20px;
 background:#2c7be5;
 color:white;
 border:none;
+padding:12px;
 border-radius:5px;
 cursor:pointer;
+margin-bottom:10px;
 }
 
-.questao{
+button:hover{
+background:#1a5fd1;
+}
+
+.preview{
 margin-top:20px;
-padding:10px;
-border-bottom:1px solid #ddd;
+background:#fafafa;
+padding:15px;
+border-radius:8px;
+}
+
+.hidden{
+display:none;
 }
 
 </style>
@@ -42,65 +74,216 @@ border-bottom:1px solid #ddd;
 
 <body>
 
-<div class="container">
+<div class="sidebar">
+<h2>Provas</h2>
+<p>Painel do Professor</p>
+</div>
 
-<h2>Gerador de Provas</h2>
+<div class="main">
 
-<label>Matéria</label>
-<br>
-<input id="materia" value="Matemática">
+<div class="card">
 
-<br><br>
+<!-- LOGIN -->
+<div id="loginBox">
 
-<label>Quantidade de questões</label>
-<br>
-<input id="quantidade" value="5">
+<h2>Login do Professor</h2>
 
-<br><br>
+<input id="email" placeholder="Email">
+<input id="senha" type="password" placeholder="Senha">
 
-<button onclick="gerar()">Gerar Prova</button>
-
-<div id="resultado"></div>
+<button onclick="registrar()">Registrar</button>
+<button onclick="login()">Entrar</button>
 
 </div>
 
+<!-- SISTEMA -->
+<div id="sistema" class="hidden">
+
+<h2>Gerar Prova</h2>
+
+<select id="materia">
+<option>Matemática</option>
+<option>Português</option>
+<option>História</option>
+<option>Geografia</option>
+</select>
+
+<select id="nivel">
+<option>Fundamental 7</option>
+<option>Médio 1</option>
+<option>Médio 3</option>
+</select>
+
+<input id="tema" placeholder="Tema (ex: frações)">
+
+<select id="dificuldade">
+<option>facil</option>
+<option>medio</option>
+<option>dificil</option>
+</select>
+
+<input id="quantidade" value="5">
+
+<button onclick="visualizar()">Visualizar Prova</button>
+<button onclick="baixar()">Baixar PDF</button>
+<button onclick="logout()">Sair</button>
+
+<!-- 💰 UPGRADE -->
+<button onclick="upgrade()">Virar Premium</button>
+
+<p id="usoTexto"></p>
+
+<div class="preview" id="preview"></div>
+
+</div>
+
+</div>
+
+</div>
+
+<!-- 🔥 FIREBASE -->
+<script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-auth-compat.js"></script>
+
 <script>
 
-async function gerar(){
+const firebaseConfig = {
+  apiKey: "AIzaSyDGPrb85mlmY97gC44gycFI-T0YiEBXMuo",
+  authDomain: "modulo-de-perguntas.firebaseapp.com",
+  projectId: "modulo-de-perguntas",
+  appId: "1:1096976094856:web:44a278f08980cafb76b13d"
+};
+
+firebase.initializeApp(firebaseConfig);
+
+// ===== CONTROLE DE LOGIN =====
+
+firebase.auth().onAuthStateChanged(user => {
+
+if(user){
+document.getElementById("loginBox").classList.add("hidden")
+document.getElementById("sistema").classList.remove("hidden")
+}else{
+document.getElementById("loginBox").classList.remove("hidden")
+document.getElementById("sistema").classList.add("hidden")
+}
+
+});
+
+// ===== REGISTRAR =====
+
+function registrar(){
+
+let email = document.getElementById("email").value
+let senha = document.getElementById("senha").value
+
+firebase.auth().createUserWithEmailAndPassword(email, senha)
+.then(()=>{
+alert("Conta criada!")
+})
+.catch(e=>{
+alert(e.message)
+})
+
+}
+
+// ===== LOGIN =====
+
+function login(){
+
+let email = document.getElementById("email").value
+let senha = document.getElementById("senha").value
+
+firebase.auth().signInWithEmailAndPassword(email, senha)
+.then(()=>{
+alert("Login feito!")
+})
+.catch(e=>{
+alert(e.message)
+})
+
+}
+
+// ===== LOGOUT =====
+
+function logout(){
+firebase.auth().signOut()
+}
+
+// ===== LIMITE GRATUITO =====
+
+let uso = 0
+let limite = 3
+
+function atualizarUso(){
+document.getElementById("usoTexto").innerText = 
+"Uso gratuito: " + uso + " / " + limite
+}
+
+atualizarUso()
+
+// ===== GERAR PROVA =====
+
+async function visualizar(){
+
+if(uso >= limite){
+alert("Você atingiu o limite gratuito. Faça upgrade.")
+return
+}
+
+uso++
+atualizarUso()
 
 let materia = document.getElementById("materia").value
+let nivel = document.getElementById("nivel").value
+let tema = document.getElementById("tema").value
+let dificuldade = document.getElementById("dificuldade").value
 let quantidade = document.getElementById("quantidade").value
 
-let url = `https://motor-provas.onrender.com/gerar_prova?materia=${materia}&quantidade=${quantidade}`
+let url = `https://motor-provas.onrender.com/gerar_prova?materia=${materia}&nivel=${nivel}&tema=${tema}&dificuldade=${dificuldade}&quantidade=${quantidade}`
 
 let resposta = await fetch(url)
-
 let dados = await resposta.json()
 
-let div = document.getElementById("resultado")
-
-div.innerHTML = ""
+let html = "<h3>Pré-visualização</h3>"
 
 dados.questoes.forEach((q,i)=>{
 
-let html = `<div class="questao">
-<h3>${i+1}. ${q.pergunta}</h3>
-`
+html += `<p><b>${i+1}. ${q.pergunta}</b></p>`
 
 q.opcoes.forEach(op=>{
-html += `<p>• ${op}</p>`
+html += `<p>( ) ${op}</p>`
 })
-
-html += "</div>"
-
-div.innerHTML += html
 
 })
 
+document.getElementById("preview").innerHTML = html
+
+}
+
+// ===== BAIXAR PDF =====
+
+function baixar(){
+
+let materia = document.getElementById("materia").value
+let nivel = document.getElementById("nivel").value
+let tema = document.getElementById("tema").value
+let dificuldade = document.getElementById("dificuldade").value
+let quantidade = document.getElementById("quantidade").value
+
+let url = `https://motor-provas.onrender.com/baixar_pdf?materia=${materia}&nivel=${nivel}&tema=${tema}&dificuldade=${dificuldade}&quantidade=${quantidade}`
+
+window.open(url)
+
+}
+
+// ===== UPGRADE =====
+
+function upgrade(){
+alert("Aqui você pode integrar pagamento (PIX/cartão)")
 }
 
 </script>
 
 </body>
-
 </html>
